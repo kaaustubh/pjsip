@@ -1,0 +1,37 @@
+10
+
+dir
+1433
+https://www.portaudio.com/repos/portaudio/trunk/build
+https://www.portaudio.com/repos
+
+
+
+2009-09-09T12:48:17.619828Z
+1417
+rossb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+0f58301d-fd10-0410-b4af-bbb618454e57
+
+scons
+dir
+
+msvc
+dir
+
+dev-cpp
+dir
+

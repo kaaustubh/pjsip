@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 128
+build.mak
+build.mak.old
+user.mak
+python
+*.log
+config.log
+config.status
+*.cache
+*.ncb
+*.opt
+*.suo
+.settings
+.cdtproject
+.project
+
+K 13
+svn:mergeinfo
+V 217
+/pjproject/branches/projects/aps-direct:2431-2504
+/pjproject/branches/projects/iphone:3127,3129-3130,3137,3166-3171,3173
+/pjproject/branches/projects/vs-reorg:2588-2637
+/pjproject/branches/projects/vs-reorg2:2648-2659
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/!svn/ver/3174/pjproject/trunk/pjmedia/build
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/1227/pjproject/trunk/pjmedia/build/os-rtems.mak
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/2601/pjproject/trunk/pjmedia/build/os-linux.mak
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/2601/pjproject/trunk/pjmedia/build/os-win32.mak
+END
+m-i386.mak
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/1227/pjproject/trunk/pjmedia/build/m-i386.mak
+END
+pjmedia_audiodev.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3103/pjproject/trunk/pjmedia/build/pjmedia_audiodev.vcproj
+END
+pjmedia_codec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/2563/pjproject/trunk/pjmedia/build/pjmedia_codec.dsp
+END
+pjmedia_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/2614/pjproject/trunk/pjmedia/build/pjmedia_test.dsp
+END
+pjmedia.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/2755/pjproject/trunk/pjmedia/build/pjmedia.dsp
+END
+m-x86_64.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/1227/pjproject/trunk/pjmedia/build/m-x86_64.mak
+END
+Jbtest.dat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/3065/pjproject/trunk/pjmedia/build/Jbtest.dat
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3064/pjproject/trunk/pjmedia/build/os-auto.mak.in
+END
+pjmedia.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/1895/pjproject/trunk/pjmedia/build/pjmedia.dsw
+END
+pjaut.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/1227/pjproject/trunk/pjmedia/build/pjaut.dsp
+END
+pjmedia_codec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/2825/pjproject/trunk/pjmedia/build/pjmedia_codec.vcproj
+END
+pjmedia_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/2664/pjproject/trunk/pjmedia/build/pjmedia_test.vcproj
+END
+pjmedia.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/2755/pjproject/trunk/pjmedia/build/pjmedia.vcproj
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/2601/pjproject/trunk/pjmedia/build/os-darwinos.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/3174/pjproject/trunk/pjmedia/build/Makefile
+END
+pjmedia_audiodev.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/3103/pjproject/trunk/pjmedia/build/pjmedia_audiodev.dsp
+END

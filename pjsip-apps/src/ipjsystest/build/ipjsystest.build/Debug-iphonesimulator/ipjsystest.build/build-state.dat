@@ -1,0 +1,2399 @@
+Tipjsystest
+v7
+r0
+t300102556.613205
+cCheck dependencies
+cProcessInfoPlistFile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/Info.plist ipjsystest-Info.plist
+cCompileXIB /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/MainWindow.xib
+cCompileXIB /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/RootViewController.xib
+cCompileXIB /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/TestViewController.xib
+cCpResource build/Debug-iphonesimulator/ipjsystest.app/input.8.wav build/Debug-iphonesimulator/../../../../../tests/pjsua/wavs/input.8.wav
+cCpResource build/Debug-iphonesimulator/ipjsystest.app/tock8.wav ../../../tests/pjsua/wavs/tock8.wav
+cProcessPCH /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch.gch ipjsystest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-cilwacshmusiktgfrohvumoeccvv/ipjsystest_Prefix.pch.gch ipjsystest_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/main.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/ipjsystestAppDelegate.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/RootViewController.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/TestViewController.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/systest.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/ipjsystest normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B99743200000000000000EE
+t1268347954
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004ABDC8DB00000000001926A0
+t1253951707
+s1648288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026DB60
+t1253951571
+s2546528
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027D5E0
+t1253951826
+s2610656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE20000000001670F70
+t1253961442
+s23531376
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/assert.h
+c000000004748A1310000000000000DCB
+t1195942193
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/inttypes.h
+c000000004748A13100000000000027D1
+t1195942193
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/setjmp.h
+c000000004748A1310000000000000438
+t1195942193
+s1080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004748AF9500000000000010DD
+t1195945877
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004748AF950000000000003197
+t1195945877
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BC439460000000000000110
+t1271150918
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BB70A8F00000000001DA040
+t1270286991
+s1941568
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB70A760000000000279720
+t1270286966
+s2594592
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB70A830000000000277510
+t1270286979
+s2585872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB70A5F0000000000001466
+t1270286943
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9113C00000000000009CD
+t1270419772
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9124900000000022C20B0
+t1270420041
+s36446384
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BAA94C70000000000001A3B
+t1269470407
+s6715
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/assert.h
+c000000004A5C14A60000000000000DCB
+t1247548582
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/inttypes.h
+c000000004A5C14A600000000000027D1
+t1247548582
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/setjmp.h
+c000000004A5C14A60000000000000438
+t1247548582
+s1080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util.h
+c000000004C32F9B700000000000006E9
+t1278409143
+s1769
+i<pjlib-util/errno.h>
+i<pjlib-util/types.h>
+i<pjlib-util/getopt.h>
+i<pjlib-util/base64.h>
+i<pjlib-util/crc32.h>
+i<pjlib-util/hmac_md5.h>
+i<pjlib-util/hmac_sha1.h>
+i<pjlib-util/md5.h>
+i<pjlib-util/sha1.h>
+i<pjlib-util/dns.h>
+i<pjlib-util/resolver.h>
+i<pjlib-util/srv_resolver.h>
+i<pjlib-util/dns_server.h>
+i<pjlib-util/scanner.h>
+i<pjlib-util/xml.h>
+i<pjlib-util/stun_simple.h>
+i<pjlib-util/pcap.h>
+i<pjlib-util/http_client.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/base64.h
+c000000004C32F9B70000000000000A5C
+t1278409143
+s2652
+i<pjlib-util/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/config.h
+c000000004C32F9B70000000000001BDB
+t1278409143
+s7131
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/crc32.h
+c000000004C32F9B70000000000000960
+t1278409143
+s2400
+i<pjlib-util/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/dns.h
+c000000004C32F9B70000000000003C9E
+t1278409143
+s15518
+i<pjlib-util/types.h>
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/dns_server.h
+c000000004C32F9B70000000000000DCE
+t1278409143
+s3534
+i<pjlib-util/types.h>
+i<pjlib-util/dns.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/errno.h
+c000000004C32F9B70000000000002F6A
+t1278409143
+s12138
+i<pj/errno.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/getopt.h
+c000000004C32F9B7000000000000139D
+t1278409143
+s5021
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/hmac_md5.h
+c000000004C32F9B70000000000000BFB
+t1278409143
+s3067
+i<pj/types.h>
+i<pjlib-util/md5.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/hmac_sha1.h
+c000000004C32F9B70000000000000BFE
+t1278409143
+s3070
+i<pj/types.h>
+i<pjlib-util/sha1.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/http_client.h
+c000000004C32F9B70000000000003234
+t1278409143
+s12852
+i<pj/activesock.h>
+i<pjlib-util/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/md5.h
+c000000004C32F9B7000000000000076C
+t1278409143
+s1900
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/pcap.h
+c000000004C32F9B70000000000001571
+t1278409143
+s5489
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/resolver.h
+c000000004C32F9B70000000000004318
+t1278409143
+s17176
+i<pjlib-util/dns.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/scanner.h
+c000000004C32F9B7000000000000410E
+t1278409143
+s16654
+i<pjlib-util/types.h>
+i<pjlib-util/scanner_cis_bitwise.h>
+i<pjlib-util/scanner_cis_uint.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h
+c000000004C32F9B70000000000000BE2
+t1278409143
+s3042
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/scanner_cis_uint.h
+c000000004C32F9B70000000000000A06
+t1278409143
+s2566
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/sha1.h
+c000000004C32F9B7000000000000080B
+t1278409143
+s2059
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/srv_resolver.h
+c000000004C32F9B70000000000001DDD
+t1278409143
+s7645
+i<pjlib-util/resolver.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/stun_simple.h
+c000000004C32F9B7000000000000187E
+t1278409143
+s6270
+i<pjlib-util/types.h>
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/types.h
+c000000004C32F9B70000000000000733
+t1278409143
+s1843
+i<pj/types.h>
+i<pjlib-util/config.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib-util/include/pjlib-util/xml.h
+c000000004C32F9B70000000000001B9E
+t1278409143
+s7070
+i<pj/types.h>
+i<pj/list.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/activesock.h
+c000000004C32F9B50000000000004C93
+t1278409141
+s19603
+i<pj/ioqueue.h>
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/addr_resolv.h
+c000000004C32F9B500000000000014F3
+t1278409141
+s5363
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/array.h
+c000000004C32F9B50000000000000B99
+t1278409141
+s2969
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/assert.h
+c000000004C32F9B50000000000000C0A
+t1278409141
+s3082
+i<pj/config.h>
+i<pj/compat/assert.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/assert.h
+c000000004C32F9B50000000000000598
+t1278409141
+s1432
+i<assert.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/cc_armcc.h
+c000000004C32F9B500000000000006C0
+t1278409141
+s1728
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/cc_codew.h
+c000000004C32F9B5000000000000069B
+t1278409141
+s1691
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/cc_gcc.h
+c000000004C32F9B500000000000007E1
+t1278409141
+s2017
+i<inttypes.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/cc_gcce.h
+c000000004C32F9B50000000000000649
+t1278409141
+s1609
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/cc_msvc.h
+c000000004C32F9B50000000000000AA6
+t1278409141
+s2726
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/cc_mwcc.h
+c000000004C32F9B50000000000000646
+t1278409141
+s1606
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/ctype.h
+c000000004C32F9B5000000000000073C
+t1278409141
+s1852
+i<ctype.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/errno.h
+c000000004C32F9B500000000000005F7
+t1278409141
+s1527
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/high_precision.h
+c000000004C32F9B50000000000000B37
+t1278409141
+s2871
+i<math.h>
+i<asm/div64.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/m_auto.h
+c000000004C32FA57000000000000076B
+t1278409303
+s1899
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_auto.h
+c000000004C32FA5700000000000015C8
+t1278409303
+s5576
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_darwinos.h
+c000000004C32F9B5000000000000112B
+t1278409141
+s4395
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_linux.h
+c000000004C32F9B50000000000000F9E
+t1278409141
+s3998
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_linux_kernel.h
+c000000004C32F9B500000000000011BD
+t1278409141
+s4541
+i<linux/module.h>
+i<linux/kernel.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_palmos.h
+c000000004C32F9B50000000000000E9E
+t1278409141
+s3742
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_rtems.h
+c000000004C32F9B50000000000001026
+t1278409141
+s4134
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_sunos.h
+c000000004C32F9B50000000000000FCC
+t1278409141
+s4044
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_symbian.h
+c000000004C32F9B5000000000000123A
+t1278409141
+s4666
+i<e32def.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_win32.h
+c000000004C32F9B500000000000010AA
+t1278409141
+s4266
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/os_win32_wince.h
+c000000004C32F9B50000000000001148
+t1278409141
+s4424
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/setjmp.h
+c000000004C32F9B50000000000000BCE
+t1278409141
+s3022
+i<setjmp.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/size_t.h
+c000000004C32F9B50000000000000456
+t1278409141
+s1110
+i<stddef.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/stdarg.h
+c000000004C32F9B50000000000000481
+t1278409141
+s1153
+i<stdarg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/compat/string.h
+c000000004C32F9B500000000000013F8
+t1278409141
+s5112
+i<string.h>
+i<stdio.h>
+i<stdlib.h>
+i<pj/types.h>
+i<pj/compat/stdarg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/config.h
+c000000004C32F9B5000000000000738F
+t1278409141
+s29583
+i<pj/compat/cc_msvc.h>
+i<pj/compat/cc_gcc.h>
+i<pj/compat/cc_mwcc.h>
+i<pj/compat/cc_codew.h>
+i<pj/compat/cc_gcce.h>
+i<pj/compat/cc_armcc.h>
+i<pj/compat/os_auto.h>
+i<pj/compat/os_symbian.h>
+i<pj/compat/os_win32_wince.h>
+i<pj/compat/os_win32.h>
+i<pj/compat/os_linux_kernel.h>
+i<pj/compat/os_linux.h>
+i<pj/compat/os_palmos.h>
+i<pj/compat/os_sunos.h>
+i<pj/compat/os_darwinos.h>
+i<pj/compat/os_rtems.h>
+i<pj/compat/m_auto.h>
+i<pj/compat/size_t.h>
+i<pj/config_site.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/config_site.h
+c000000004C32FA35000000000000003E
+t1278409269
+s62
+i<pj/config_site_sample.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/config_site_sample.h
+c000000004C32F9B500000000000030ED
+t1278409141
+s12525
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/ctype.h
+c000000004C32F9B500000000000015A9
+t1278409141
+s5545
+i<pj/types.h>
+i<pj/compat/ctype.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/errno.h
+c000000004C32F9B5000000000000470D
+t1278409141
+s18189
+i<pj/types.h>
+i<pj/compat/errno.h>
+i<stdarg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/except.h
+c000000004C32F9B50000000000002FB2
+t1278409141
+s12210
+i<pj/types.h>
+i<pj/compat/setjmp.h>
+i<pj/log.h>
+i<windows.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/fifobuf.h
+c000000004C32F9B500000000000005F5
+t1278409141
+s1525
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/file_access.h
+c000000004C32F9B50000000000000C28
+t1278409141
+s3112
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/file_io.h
+c000000004C32F9B50000000000001956
+t1278409141
+s6486
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/guid.h
+c000000004C32F9B50000000000000AA2
+t1278409141
+s2722
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/hash.h
+c000000004C32F9B50000000000001C22
+t1278409141
+s7202
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/ioqueue.h
+c000000004C32F9B5000000000000892B
+t1278409141
+s35115
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/ip_helper.h
+c000000004C32F9B50000000000000B5F
+t1278409141
+s2911
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/list.h
+c000000004C32F9B50000000000001E59
+t1278409141
+s7769
+i<pj/types.h>
+i"list_i.h"
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/list_i.h
+c000000004C32F9B50000000000000D94
+t1278409141
+s3476
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/lock.h
+c000000004C32F9B50000000000001082
+t1278409141
+s4226
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/log.h
+c000000004C32F9B50000000000002EE5
+t1278409141
+s12005
+i<pj/types.h>
+i<stdarg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/math.h
+c000000004C32F9B50000000000001267
+t1278409141
+s4711
+i<pj/string.h>
+i<pj/compat/high_precision.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/os.h
+c000000004C32F9B5000000000000918C
+t1278409141
+s37260
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/pool.h
+c000000004C32F9B500000000000076C5
+t1278409141
+s30405
+i<pj/list.h>
+i<pj/pool_alt.h>
+i<pjlib.h>
+i"pool_i.h"
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/pool_alt.h
+c000000004C32F9B50000000000001546
+t1278409141
+s5446
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/pool_buf.h
+c000000004C32F9B50000000000000BF6
+t1278409141
+s3062
+i<pj/pool.h>
+i<pjlib.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/pool_i.h
+c000000004C32F9B50000000000000ABA
+t1278409141
+s2746
+i<pj/string.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/rand.h
+c000000004C32F9B50000000000000698
+t1278409141
+s1688
+i<pj/config.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/rbtree.h
+c000000004C32F9B500000000000017C9
+t1278409141
+s6089
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/sock.h
+c000000004C32F9B5000000000000AD59
+t1278409141
+s44377
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/sock_qos.h
+c000000004C32F9B50000000000003831
+t1278409141
+s14385
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/sock_select.h
+c000000004C32F9B500000000000012BA
+t1278409141
+s4794
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/ssl_sock.h
+c000000004C32F9B5000000000000856A
+t1278409141
+s34154
+i<pj/ioqueue.h>
+i<pj/sock.h>
+i<pj/sock_qos.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/string.h
+c000000004C32F9B5000000000000453E
+t1278409141
+s17726
+i<pj/types.h>
+i<pj/compat/string.h>
+i<pj/string_i.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/string_i.h
+c000000004C32F9B5000000000000222A
+t1278409141
+s8746
+i<pj/pool.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/timer.h
+c000000004C32F9B500000000000022CA
+t1278409141
+s8906
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/types.h
+c000000004C32F9B500000000000033D7
+t1278409141
+s13271
+i<pj/config.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pj/unicode.h
+c000000004C32F9B5000000000000110F
+t1278409141
+s4367
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjlib/include/pjlib.h
+c000000004C32F9B500000000000006ED
+t1278409141
+s1773
+i<pj/activesock.h>
+i<pj/addr_resolv.h>
+i<pj/array.h>
+i<pj/assert.h>
+i<pj/ctype.h>
+i<pj/errno.h>
+i<pj/except.h>
+i<pj/fifobuf.h>
+i<pj/file_access.h>
+i<pj/file_io.h>
+i<pj/guid.h>
+i<pj/hash.h>
+i<pj/ioqueue.h>
+i<pj/ip_helper.h>
+i<pj/list.h>
+i<pj/lock.h>
+i<pj/log.h>
+i<pj/math.h>
+i<pj/os.h>
+i<pj/pool.h>
+i<pj/pool_buf.h>
+i<pj/rand.h>
+i<pj/rbtree.h>
+i<pj/sock.h>
+i<pj/sock_qos.h>
+i<pj/sock_select.h>
+i<pj/ssl_sock.h>
+i<pj/string.h>
+i<pj/timer.h>
+i<pj/unicode.h>
+i<pj/compat/high_precision.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-audiodev/audiodev.h
+c000000004C32F9AB000000000000513D
+t1278409131
+s20797
+i<pjmedia-audiodev/config.h>
+i<pjmedia-audiodev/errno.h>
+i<pjmedia/types.h>
+i<pj/pool.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-audiodev/audiodev_imp.h
+c000000004C32F9AB00000000000011AA
+t1278409131
+s4522
+i<pjmedia-audiodev/audiodev.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-audiodev/audiotest.h
+c000000004C32F9AB0000000000000A2B
+t1278409131
+s2603
+i<pjmedia-audiodev/audiodev.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-audiodev/config.h
+c000000004C32F9AB0000000000003618
+t1278409131
+s13848
+i<pjmedia/types.h>
+i<pj/pool.h>
+i<pjmedia_audiodev.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-audiodev/errno.h
+c000000004C32F9AB00000000000016FC
+t1278409131
+s5884
+i<pjmedia-audiodev/config.h>
+i<pj/errno.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec.h
+c000000004C32F9AC0000000000000575
+t1278409132
+s1397
+i<pjmedia-codec/l16.h>
+i<pjmedia-codec/gsm.h>
+i<pjmedia-codec/speex.h>
+i<pjmedia-codec/ilbc.h>
+i<pjmedia-codec/g722.h>
+i<pjmedia-codec/g7221.h>
+i<pjmedia-codec/ipp_codecs.h>
+i<pjmedia-codec/passthrough.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/config.h
+c000000004C32F9AB00000000000023A5
+t1278409131
+s9125
+i<pjmedia/types.h>
+i<pjmedia-codec/config_auto.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/config_auto.h
+c000000004C32FA570000000000000821
+t1278409303
+s2081
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/g722.h
+c000000004C32F9AB0000000000000BFE
+t1278409131
+s3070
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/g7221.h
+c000000004C32F9AB00000000000014CF
+t1278409131
+s5327
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/gsm.h
+c000000004C32F9AB0000000000000993
+t1278409131
+s2451
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/ilbc.h
+c000000004C32F9AB0000000000000EB2
+t1278409131
+s3762
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/ipp_codecs.h
+c000000004C32F9AB0000000000002EE3
+t1278409131
+s12003
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/l16.h
+c000000004C32F9AB00000000000009A0
+t1278409131
+s2464
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/passthrough.h
+c000000004C32F9AB0000000000002635
+t1278409131
+s9781
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/speex.h
+c000000004C32F9AB0000000000001343
+t1278409131
+s4931
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia-codec/types.h
+c000000004C32F9AB0000000000000E32
+t1278409131
+s3634
+i<pjmedia-codec/config.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia.h
+c000000004C32F9AC0000000000000917
+t1278409132
+s2327
+i<pjmedia/types.h>
+i<pjmedia/alaw_ulaw.h>
+i<pjmedia/bidirectional.h>
+i<pjmedia/circbuf.h>
+i<pjmedia/clock.h>
+i<pjmedia/codec.h>
+i<pjmedia/conference.h>
+i<pjmedia/delaybuf.h>
+i<pjmedia/echo.h>
+i<pjmedia/echo_port.h>
+i<pjmedia/errno.h>
+i<pjmedia/endpoint.h>
+i<pjmedia/g711.h>
+i<pjmedia/jbuf.h>
+i<pjmedia/master_port.h>
+i<pjmedia/mem_port.h>
+i<pjmedia/null_port.h>
+i<pjmedia/plc.h>
+i<pjmedia/port.h>
+i<pjmedia/resample.h>
+i<pjmedia/rtcp.h>
+i<pjmedia/rtcp_xr.h>
+i<pjmedia/rtp.h>
+i<pjmedia/sdp.h>
+i<pjmedia/sdp_neg.h>
+i<pjmedia/session.h>
+i<pjmedia/silencedet.h>
+i<pjmedia/sound.h>
+i<pjmedia/sound_port.h>
+i<pjmedia/splitcomb.h>
+i<pjmedia/stereo.h>
+i<pjmedia/stream.h>
+i<pjmedia/tonegen.h>
+i<pjmedia/transport.h>
+i<pjmedia/transport_adapter_sample.h>
+i<pjmedia/transport_ice.h>
+i<pjmedia/transport_loop.h>
+i<pjmedia/transport_srtp.h>
+i<pjmedia/transport_udp.h>
+i<pjmedia/wav_playlist.h>
+i<pjmedia/wav_port.h>
+i<pjmedia/wave.h>
+i<pjmedia/wsola.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/alaw_ulaw.h
+c000000004C32F9AB0000000000001655
+t1278409131
+s5717
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/bidirectional.h
+c000000004C32F9AB0000000000000758
+t1278409131
+s1880
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/circbuf.h
+c000000004C32F9AB00000000000030A7
+t1278409131
+s12455
+i<pj/assert.h>
+i<pj/errno.h>
+i<pj/pool.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/clock.h
+c000000004C32F9AB0000000000001822
+t1278409131
+s6178
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/codec.h
+c000000004C32F9AB0000000000007D34
+t1278409131
+s32052
+i<pjmedia/port.h>
+i<pj/list.h>
+i<pj/pool.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/conference.h
+c000000004C32F9AB000000000000467A
+t1278409131
+s18042
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/config.h
+c000000004C32F9AB00000000000061EE
+t1278409131
+s25070
+i<pj/config.h>
+i<pjmedia/config_auto.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/config_auto.h
+c000000004C32FA570000000000000596
+t1278409303
+s1430
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/delaybuf.h
+c000000004C32F9AB00000000000015C6
+t1278409131
+s5574
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/echo.h
+c000000004C32F9AB0000000000001E1C
+t1278409131
+s7708
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/echo_port.h
+c000000004C32F9AB00000000000007ED
+t1278409131
+s2029
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/endpoint.h
+c000000004C32F9AB00000000000013E1
+t1278409131
+s5089
+i<pjmedia/codec.h>
+i<pjmedia/sdp.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/errno.h
+c000000004C32F9AB000000000000451B
+t1278409131
+s17691
+i<pjmedia/types.h>
+i<pj/errno.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/g711.h
+c000000004C32F9AB00000000000009F8
+t1278409131
+s2552
+i<pjmedia-codec/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/jbuf.h
+c000000004C32F9AB00000000000028EE
+t1278409131
+s10478
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/master_port.h
+c000000004C32F9AB00000000000016D5
+t1278409131
+s5845
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/mem_port.h
+c000000004C32F9AB0000000000001910
+t1278409131
+s6416
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/null_port.h
+c000000004C32F9AB0000000000000779
+t1278409131
+s1913
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/plc.h
+c000000004C32F9AB0000000000000C48
+t1278409131
+s3144
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/port.h
+c000000004C32F9AB00000000000026C6
+t1278409131
+s9926
+i<pjmedia/types.h>
+i<pj/assert.h>
+i<pj/os.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/resample.h
+c000000004C32F9AB000000000000170E
+t1278409131
+s5902
+i<pjmedia/types.h>
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/rtcp.h
+c000000004C32F9AB0000000000003542
+t1278409131
+s13634
+i<pjmedia/types.h>
+i<pjmedia/rtcp_xr.h>
+i<pjmedia/rtp.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/rtcp_xr.h
+c000000004C32F9AB0000000000003EE9
+t1278409131
+s16105
+i<pjmedia/types.h>
+i<pj/math.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/rtp.h
+c000000004C32F9AB00000000000030F5
+t1278409131
+s12533
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/sdp.h
+c000000004C32F9AB0000000000004BC4
+t1278409131
+s19396
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/sdp_neg.h
+c000000004C32F9AB0000000000006516
+t1278409131
+s25878
+i<pjmedia/sdp.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/session.h
+c000000004C32F9AB000000000000307B
+t1278409131
+s12411
+i<pjmedia/endpoint.h>
+i<pjmedia/stream.h>
+i<pjmedia/sdp.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/silencedet.h
+c000000004C32F9AB00000000000016E0
+t1278409131
+s5856
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/sound.h
+c000000004C32F9AB0000000000002DCC
+t1278409131
+s11724
+i<pjmedia-audiodev/audiodev.h>
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/sound_port.h
+c000000004C32F9AB00000000000029E6
+t1278409131
+s10726
+i<pjmedia-audiodev/audiodev.h>
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/splitcomb.h
+c000000004C32F9AB0000000000001469
+t1278409131
+s5225
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/stereo.h
+c000000004C32F9AB0000000000001910
+t1278409131
+s6416
+i<pjmedia/errno.h>
+i<pjmedia/port.h>
+i<pjmedia/types.h>
+i<pj/assert.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/stream.h
+c000000004C32F9AB0000000000002DB9
+t1278409131
+s11705
+i<pjmedia/codec.h>
+i<pjmedia/endpoint.h>
+i<pjmedia/jbuf.h>
+i<pjmedia/port.h>
+i<pjmedia/rtcp.h>
+i<pjmedia/transport.h>
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/tonegen.h
+c000000004C32F9AB0000000000002714
+t1278409131
+s10004
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/transport.h
+c000000004C32F9AB000000000000726D
+t1278409131
+s29293
+i<pjmedia/types.h>
+i<pjmedia/errno.h>
+i<pjmedia/sdp.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/transport_adapter_sample.h
+c000000004C32F9AB0000000000000892
+t1278409131
+s2194
+i<pjmedia/transport.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/transport_ice.h
+c000000004C32F9AB0000000000001690
+t1278409131
+s5776
+i<pjmedia/stream.h>
+i<pjnath/ice_strans.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/transport_loop.h
+c000000004C32F9AB00000000000009D0
+t1278409131
+s2512
+i<pjmedia/stream.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/transport_srtp.h
+c000000004C32F9AB0000000000002509
+t1278409131
+s9481
+i<pjmedia/transport.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/transport_udp.h
+c000000004C32F9AB0000000000001507
+t1278409131
+s5383
+i<pjmedia/stream.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/types.h
+c000000004C32F9AB00000000000033B4
+t1278409131
+s13236
+i<pjmedia/config.h>
+i<pj/sock.h>
+i<pj/string.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/wav_playlist.h
+c000000004C32F9AB0000000000000D86
+t1278409131
+s3462
+i<pjmedia/wav_port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/wav_port.h
+c000000004C32F9AB0000000000001CCB
+t1278409131
+s7371
+i<pjmedia/port.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/wave.h
+c000000004C32F9AB00000000000012E7
+t1278409131
+s4839
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia/wsola.h
+c000000004C32F9AB0000000000001B54
+t1278409131
+s6996
+i<pjmedia/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjmedia/include/pjmedia_audiodev.h
+c000000004C32F9AC00000000000004B9
+t1278409132
+s1209
+i<pjmedia-audiodev/audiodev.h>
+i<pjmedia-audiodev/audiodev_imp.h>
+i<pjmedia-audiodev/audiotest.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath.h
+c000000004C32F99E0000000000000534
+t1278409118
+s1332
+i<pjnath/config.h>
+i<pjnath/errno.h>
+i<pjnath/ice_session.h>
+i<pjnath/ice_strans.h>
+i<pjnath/nat_detect.h>
+i<pjnath/stun_auth.h>
+i<pjnath/stun_config.h>
+i<pjnath/stun_msg.h>
+i<pjnath/stun_session.h>
+i<pjnath/stun_sock.h>
+i<pjnath/stun_transaction.h>
+i<pjnath/turn_session.h>
+i<pjnath/turn_sock.h>
+i<pjnath/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/config.h
+c000000004C32F99E0000000000002FCE
+t1278409118
+s12238
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/errno.h
+c000000004C32F99E0000000000001997
+t1278409118
+s6551
+i<pj/errno.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/ice_session.h
+c000000004C32F99E0000000000007F36
+t1278409118
+s32566
+i<pjnath/types.h>
+i<pjnath/stun_session.h>
+i<pjnath/errno.h>
+i<pj/sock.h>
+i<pj/timer.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/ice_strans.h
+c000000004C32F99E0000000000006956
+t1278409118
+s26966
+i<pjnath/ice_session.h>
+i<pjnath/stun_sock.h>
+i<pjnath/turn_sock.h>
+i<pjlib-util/resolver.h>
+i<pj/ioqueue.h>
+i<pj/timer.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/nat_detect.h
+c000000004C32F99E0000000000001948
+t1278409118
+s6472
+i<pjnath/stun_session.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/stun_auth.h
+c000000004C32F99E00000000000038DB
+t1278409118
+s14555
+i<pjnath/stun_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/stun_config.h
+c000000004C32F99E0000000000000B1D
+t1278409118
+s2845
+i<pjnath/stun_msg.h>
+i<pj/assert.h>
+i<pj/errno.h>
+i<pj/string.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/stun_msg.h
+c000000004C32F99E000000000000E1D9
+t1278409118
+s57817
+i<pjnath/types.h>
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/stun_session.h
+c000000004C32F99E0000000000007C45
+t1278409118
+s31813
+i<pjnath/stun_msg.h>
+i<pjnath/stun_auth.h>
+i<pjnath/stun_config.h>
+i<pjnath/stun_transaction.h>
+i<pj/list.h>
+i<pj/timer.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/stun_sock.h
+c000000004C32F99E0000000000003981
+t1278409118
+s14721
+i<pjnath/stun_config.h>
+i<pjlib-util/resolver.h>
+i<pj/ioqueue.h>
+i<pj/sock.h>
+i<pj/sock_qos.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/stun_transaction.h
+c000000004C32F99E00000000000023EF
+t1278409118
+s9199
+i<pjnath/stun_msg.h>
+i<pjnath/stun_config.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/turn_session.h
+c000000004C32F99E0000000000006371
+t1278409118
+s25457
+i<pjnath/stun_session.h>
+i<pjlib-util/resolver.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/turn_sock.h
+c000000004C32F99E0000000000003640
+t1278409118
+s13888
+i<pjnath/turn_session.h>
+i<pj/sock_qos.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjnath/include/pjnath/types.h
+c000000004C32F99E0000000000000718
+t1278409118
+s1816
+i<pj/types.h>
+i<pjnath/config.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjlib-util/lib/libpjlib-util-arm-apple-darwin9.a
+c000000004C32FA800000000000020620
+t1278409344
+s132640
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjlib/lib/libpj-arm-apple-darwin9.a
+c000000004C32FA76000000000002AFA8
+t1278409334
+s176040
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjmedia/lib/libpjmedia-arm-apple-darwin9.a
+c000000004C32FAA00000000000065E90
+t1278409376
+s417424
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjmedia/lib/libpjmedia-audiodev-arm-apple-darwin9.a
+c000000004C32FAA10000000000008850
+t1278409377
+s34896
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjmedia/lib/libpjmedia-codec-arm-apple-darwin9.a
+c000000004C32FAA20000000000006098
+t1278409378
+s24728
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjmedia/lib/libpjsdp-arm-apple-darwin9.a
+c000000004C32FAA3000000000000E6C0
+t1278409379
+s59072
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjnath/lib/libpjnath-arm-apple-darwin9.a
+c000000004C32FA850000000000030DB8
+t1278409349
+s200120
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjsip/lib/libpjsip-arm-apple-darwin9.a
+c000000004C32FAAA0000000000055FF8
+t1278409386
+s352248
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjsip/lib/libpjsip-simple-arm-apple-darwin9.a
+c000000004C32FAAE0000000000019D90
+t1278409390
+s105872
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjsip/lib/libpjsip-ua-arm-apple-darwin9.a
+c000000004C32FAAC000000000001D8D8
+t1278409388
+s121048
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjsip/lib/libpjsua-arm-apple-darwin9.a
+c000000004C32FAB2000000000003D740
+t1278409394
+s251712
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../tests/pjsua/wavs/tock8.wav
+c000000004C32F9A90000000000003EAE
+t1278409129
+s16046
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib/libg7221codec-arm-apple-darwin9.a
+c000000004C32FA980000000000012C68
+t1278409368
+s76904
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib/libgsmcodec-arm-apple-darwin9.a
+c000000004C32FA8D000000000000BFB8
+t1278409357
+s49080
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib/libilbccodec-arm-apple-darwin9.a
+c000000004C32FA8F0000000000014AD8
+t1278409359
+s84696
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib/libmilenage-arm-apple-darwin9.a
+c000000004C32FA890000000000003AC8
+t1278409353
+s15048
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib/libresample-arm-apple-darwin9.a
+c000000004C32FA89000000000000B748
+t1278409353
+s46920
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib/libspeex-arm-apple-darwin9.a
+c000000004C32FA96000000000003BBE8
+t1278409366
+s244712
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib/libsrtp-arm-apple-darwin9.a
+c000000004C32FA8B0000000000018D80
+t1278409355
+s101760
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/gui.h
+c000000004C32F9A300000000000006C0
+t1278409123
+s1728
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.c
+c000000004C32F9A300000000000085DD
+t1278409123
+s34269
+i"systest.h"
+i"gui.h"
+i<pjsua-lib/pjsua.h>
+i<pjmedia_audiodev.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.h
+c000000004C32F9A30000000000000C50
+t1278409123
+s3152
+i<pjlib.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.h
+c000000004C32F9A2000000000000020E
+t1278409122
+s526
+i"TestViewController.h"
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m
+c000000004C32F9A2000000000000272D
+t1278409122
+s10029
+i"RootViewController.h"
+i"gui.h"
+i"systest.h"
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.h
+c000000004C32F9A2000000000000024F
+t1278409122
+s591
+i<UIKit/UIKit.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m
+c000000004C32F9A20000000000000874
+t1278409122
+s2164
+i"TestViewController.h"
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.h
+c000000004C32F9A200000000000001DC
+t1278409122
+s476
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m
+c000000004C32F9A2000000000000035D
+t1278409122
+s861
+i"ipjsystestAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/MainWindow.xib
+c000000004C32F9A200000000000058EC
+t1278409122
+s22764
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/RootViewController.xib
+c000000004C32F9A20000000000004324
+t1278409122
+s17188
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/TestViewController.xib
+c000000004C32F9A20000000000005881
+t1278409122
+s22657
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/../../../../../tests/pjsua/wavs/input.8.wav
+c000000004C32F9A900000000000106E2
+t1278409129
+s67298
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app
+t1278409754
+s306
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app.dSYM
+t2
+s0
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/Info.plist
+t1278409752
+s597
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/MainWindow.nib
+t1278409752
+s1518
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/PkgInfo
+t1278409752
+s8
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/RootViewController.nib
+t1278409752
+s979
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/TestViewController.nib
+t1278409754
+s2478
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/input.8.wav
+t1278409664
+s67298
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/ipjsystest
+t2
+s0
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/tock8.wav
+t1278409664
+s16046
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/RootViewController.o
+t1278409756
+s62056
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/TestViewController.o
+t1278409756
+s44288
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/ipjsystest.LinkFileList
+c000000004C32FBBF0000000000000337
+t1278409663
+s823
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/ipjsystestAppDelegate.o
+t1278409755
+s45880
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/main.o
+t1278409755
+s5996
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/systest.o
+t1278409756
+s76152
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch
+c000000004C32F9A20000000000000146
+t1278409122
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/main.m
+c000000004C32F9A2000000000000017F
+t1278409122
+s383
+i<UIKit/UIKit.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/pjsystest/gui.h
+c000000004C32F9A300000000000006C0
+t1278409123
+s1728
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/pjsystest/systest.h
+c000000004C32F9A30000000000000C50
+t1278409123
+s3152
+i<pjlib.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/evsub.h
+c000000004C32F9A00000000000003BB4
+t1278409120
+s15284
+i<pjsip-simple/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/evsub_msg.h
+c000000004C32F9A00000000000000BF6
+t1278409120
+s3062
+i<pjsip/sip_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/iscomposing.h
+c000000004C32F9A00000000000001354
+t1278409120
+s4948
+i<pjsip-simple/types.h>
+i<pjlib-util/xml.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/mwi.h
+c000000004C32F9A00000000000001A25
+t1278409120
+s6693
+i<pjsip-simple/evsub.h>
+i<pjsip/sip_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/pidf.h
+c000000004C32F9A00000000000001B51
+t1278409120
+s6993
+i<pjsip-simple/types.h>
+i<pjlib-util/xml.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/presence.h
+c000000004C32F9A00000000000002A3A
+t1278409120
+s10810
+i<pjsip-simple/evsub.h>
+i<pjsip-simple/pidf.h>
+i<pjsip-simple/xpidf.h>
+i<pjsip-simple/rpid.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/publish.h
+c000000004C32F9A00000000000002A47
+t1278409120
+s10823
+i<pjsip/sip_util.h>
+i<pjsip/sip_auth.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/rpid.h
+c000000004C32F9A00000000000000F8F
+t1278409120
+s3983
+i<pjsip-simple/types.h>
+i<pjsip-simple/pidf.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/types.h
+c000000004C32F9A00000000000000455
+t1278409120
+s1109
+i<pjsip/sip_types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-simple/xpidf.h
+c000000004C32F9A00000000000000D6A
+t1278409120
+s3434
+i<pjsip-simple/types.h>
+i<pjlib-util/xml.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-ua/sip_100rel.h
+c000000004C32F9A00000000000002017
+t1278409120
+s8215
+i<pjsip-ua/sip_inv.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-ua/sip_inv.h
+c000000004C32F9A0000000000000835A
+t1278409120
+s33626
+i<pjsip/sip_dialog.h>
+i<pjmedia/sdp_neg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-ua/sip_regc.h
+c000000004C32F9A000000000000032C0
+t1278409120
+s12992
+i<pjsip/sip_types.h>
+i<pjsip/sip_auth.h>
+i<pjsip/sip_transport.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-ua/sip_replaces.h
+c000000004C32F9A00000000000002943
+t1278409120
+s10563
+i<pjsip/sip_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-ua/sip_timer.h
+c000000004C32F9A00000000000001C44
+t1278409120
+s7236
+i<pjsip-ua/sip_inv.h>
+i<pjsip/sip_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip-ua/sip_xfer.h
+c000000004C32F9A000000000000019F2
+t1278409120
+s6642
+i<pjsip-simple/evsub.h>
+i<pjsip/sip_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip.h
+c000000004C32F9A000000000000006F6
+t1278409120
+s1782
+i<pjsip/sip_types.h>
+i<pjsip/sip_errno.h>
+i<pjsip/sip_uri.h>
+i<pjsip/sip_tel_uri.h>
+i<pjsip/sip_msg.h>
+i<pjsip/sip_parser.h>
+i<pjsip/sip_event.h>
+i<pjsip/sip_module.h>
+i<pjsip/sip_endpoint.h>
+i<pjsip/sip_util.h>
+i<pjsip/sip_transport.h>
+i<pjsip/sip_transport_udp.h>
+i<pjsip/sip_transport_loop.h>
+i<pjsip/sip_transport_tcp.h>
+i<pjsip/sip_transport_tls.h>
+i<pjsip/sip_resolve.h>
+i<pjsip/sip_auth.h>
+i<pjsip/sip_auth_aka.h>
+i<pjsip/sip_transaction.h>
+i<pjsip/sip_ua_layer.h>
+i<pjsip/sip_dialog.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_auth.h
+c000000004C32F99F00000000000043A1
+t1278409119
+s17313
+i<pjsip/sip_config.h>
+i<pjsip/sip_auth_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_auth_aka.h
+c000000004C32F99F00000000000019F1
+t1278409119
+s6641
+i<pjsip/sip_auth.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_auth_msg.h
+c000000004C32F99F0000000000001C2D
+t1278409119
+s7213
+i<pjsip/sip_msg.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_autoconf.h
+c000000004C32FA5700000000000005FB
+t1278409303
+s1531
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_config.h
+c000000004C32F99F0000000000005FB2
+t1278409119
+s24498
+i<pj/types.h>
+i<pjsip/sip_autoconf.h>
+i<pj/config.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_dialog.h
+c000000004C32F99F0000000000006A3A
+t1278409119
+s27194
+i<pjsip/sip_msg.h>
+i<pjsip/sip_auth.h>
+i<pjsip/sip_errno.h>
+i<pjsip/sip_transport.h>
+i<pjsip/sip_util.h>
+i<pj/sock.h>
+i<pj/assert.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_endpoint.h
+c000000004C32F99F00000000000049D2
+t1278409119
+s18898
+i<pjsip/sip_transport.h>
+i<pjsip/sip_resolve.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_errno.h
+c000000004C32F99F0000000000003D77
+t1278409119
+s15735
+i<pj/errno.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_event.h
+c000000004C32F99F0000000000001B52
+t1278409119
+s6994
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_module.h
+c000000004C32F99F0000000000001AD3
+t1278409119
+s6867
+i<pjsip/sip_types.h>
+i<pj/list.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_msg.h
+c000000004C32F99F000000000000FCEE
+t1278409119
+s64750
+i<pjsip/sip_types.h>
+i<pjsip/sip_uri.h>
+i<pj/list.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_parser.h
+c000000004C32F99F0000000000003CF4
+t1278409119
+s15604
+i<pjsip/sip_msg.h>
+i<pjlib-util/scanner.h>
+i<pj/list.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_resolve.h
+c000000004C32F99F0000000000002E39
+t1278409119
+s11833
+i<pjsip/sip_types.h>
+i<pjlib-util/resolver.h>
+i<pj/sock.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_tel_uri.h
+c000000004C32F99F00000000000008B3
+t1278409119
+s2227
+i<pjsip/sip_uri.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_transaction.h
+c000000004C32F99F00000000000037B9
+t1278409119
+s14265
+i<pjsip/sip_msg.h>
+i<pjsip/sip_util.h>
+i<pjsip/sip_transport.h>
+i<pj/timer.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_transport.h
+c000000004C32F99F000000000000ACBA
+t1278409119
+s44218
+i<pjsip/sip_msg.h>
+i<pjsip/sip_parser.h>
+i<pjsip/sip_resolve.h>
+i<pj/sock.h>
+i<pj/list.h>
+i<pj/ioqueue.h>
+i<pj/timer.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_transport_loop.h
+c000000004C32F99F0000000000001134
+t1278409119
+s4404
+i<pjsip/sip_transport.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_transport_tcp.h
+c000000004C32F99F0000000000001B7A
+t1278409119
+s7034
+i<pjsip/sip_transport.h>
+i<pj/sock_qos.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_transport_tls.h
+c000000004C32F99F00000000000025EC
+t1278409119
+s9708
+i<pjsip/sip_transport.h>
+i<pj/ssl_sock.h>
+i<pj/string.h>
+i<pj/sock_qos.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_transport_udp.h
+c000000004C32F99F000000000000221D
+t1278409119
+s8733
+i<pjsip/sip_transport.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_types.h
+c000000004C32F99F00000000000015B6
+t1278409119
+s5558
+i<pjsip/sip_config.h>
+i<pj/types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_ua_layer.h
+c000000004C32F99F00000000000012D6
+t1278409119
+s4822
+i<pjsip/sip_types.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_uri.h
+c000000004C32F99F000000000000310D
+t1278409119
+s12557
+i<pjsip/sip_types.h>
+i<pjsip/sip_config.h>
+i<pj/list.h>
+i<pjlib-util/scanner.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip/sip_util.h
+c000000004C32F99F0000000000007DCF
+t1278409119
+s32207
+i<pjsip/sip_msg.h>
+i<pjsip/sip_transport.h>
+i<pjsip/sip_resolve.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip_simple.h
+c000000004C32F9A00000000000000607
+t1278409120
+s1543
+i<pjsip-simple/evsub.h>
+i<pjsip-simple/evsub_msg.h>
+i<pjsip-simple/iscomposing.h>
+i<pjsip-simple/mwi.h>
+i<pjsip-simple/presence.h>
+i<pjsip-simple/pidf.h>
+i<pjsip-simple/publish.h>
+i<pjsip-simple/xpidf.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsip_ua.h
+c000000004C32F9A00000000000000496
+t1278409120
+s1174
+i<pjsip-ua/sip_inv.h>
+i<pjsip-ua/sip_regc.h>
+i<pjsip-ua/sip_replaces.h>
+i<pjsip-ua/sip_xfer.h>
+i<pjsip-ua/sip_100rel.h>
+i<pjsip-ua/sip_timer.h>
+
+N/Users/tasvir/Documents/pjsip/pjproject/pjsip/include/pjsua-lib/pjsua.h
+c000000004C32F99F00000000000243ED
+t1278409119
+s148461
+i<pjsip.h>
+i<pjmedia.h>
+i<pjmedia-codec.h>
+i<pjsip_ua.h>
+i<pjsip_simple.h>
+i<pjnath.h>
+i<pjlib-util.h>
+i<pjlib.h>
+i<pjsua-lib/pjsua.h>
+
+N/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-cilwacshmusiktgfrohvumoeccvv/ipjsystest_Prefix.pch.gch
+t1278409754
+s2163120
+
+N/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch.gch
+t1278409755
+s15154192
+
+N/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-eqqtvngtnksspxbvaacmdezjcxud/ipjsystest_Prefix.pch.gch
+t1278409667
+s13026768
+
+N/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-gfsbipsjuhcfxshgqifztxkgditu/ipjsystest_Prefix.pch.gch
+t1278409666
+s2163120
+
+Nipjsystest-Info.plist
+c000000004C32F9A20000000000000387
+t1278409122
+s903
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300102551#300102552#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/RootViewController.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300102555.936974
+e300102556.113742
+r1
+xCompileC
+xbuild/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/RootViewController.o
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m300102555#300102556#0(0"0(0#0#94"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m4300739032#2445"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -include /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m -o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/TestViewController.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300102555.974110
+e300102556.060317
+r1
+xCompileC
+xbuild/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/TestViewController.o
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m300102555#300102556#0(0"0(0#0#94"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m4300739032#2445"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -include /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m -o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/TestViewController.o0#
+
+CCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/ipjsystestAppDelegate.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300102555.881099
+e300102555.974001
+r1
+xCompileC
+xbuild/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/ipjsystestAppDelegate.o
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m300102555#300102555#0(0"0(0#0#97"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m4300739032#2451"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -include /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m -o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/ipjsystestAppDelegate.o0#
+
+CCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/main.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300102555.879694
+e300102555.936862
+r1
+xCompileC
+xbuild/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/main.o
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/main.m300102555#300102555#0(0"0(0#0#72"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/main.m4300739032#2409"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -include /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/main.m -o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/main.o0#
+
+CCompileC build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/systest.o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.c normal i386 c com.apple.compilers.gcc.4_2
+s300102556.060434
+e300102556.295588
+r1
+xCompileC
+xbuild/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/systest.o
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.c300102556#300102556#0(0"0(0#0#88"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.c4300739032#2418"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -include /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-cilwacshmusiktgfrohvumoeccvv/ipjsystest_Prefix.pch -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../pjsystest/systest.c -o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/systest.o0#
+
+CCompileXIB /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/MainWindow.xib
+s300102552.036474
+e300102552.750053
+r1
+xCompileXIB
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300102552#300102552#0(0"0(0#0#80"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/MainWindow.xib4300739032#626"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/MainWindow.nib /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/MainWindow.xib0#
+
+CCompileXIB /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/RootViewController.xib
+s300102552.038221
+e300102552.708380
+r1
+xCompileXIB
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib300102552#300102552#0(0"0(0#0#88"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/RootViewController.xib4300739032#642"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/RootViewController.nib /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/RootViewController.xib0#
+
+CCompileXIB /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/TestViewController.xib
+s300102552.708480
+e300102554.128320
+r1
+xCompileXIB
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/TestViewController.xib
+lSLF07#2@33"CompileXIB TestViewController.xib300102552#300102554#0(0"0(0#0#88"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/TestViewController.xib4300739032#642"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/TestViewController.nib /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/TestViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/ipjsystest.app/input.8.wav build/Debug-iphonesimulator/../../../../../tests/pjsua/wavs/input.8.wav
+s300102463.837457
+e300102464.024287
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ipjsystest.app/input.8.wav
+xbuild/Debug-iphonesimulator/../../../../../tests/pjsua/wavs/input.8.wav
+lSLF07#2@76"Copy build/Debug-iphonesimulator/../../../../../tests/pjsua/wavs/input.8.wav300102463#300102464#0(0"0(0#0#137"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/../../../../../tests/pjsua/wavs/input.8.wav4300739032#661"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/../../../../../tests/pjsua/wavs/input.8.wav /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app0#
+
+CCpResource build/Debug-iphonesimulator/ipjsystest.app/tock8.wav ../../../tests/pjsua/wavs/tock8.wav
+s300102463.839359
+e300102464.021550
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ipjsystest.app/tock8.wav
+x../../../tests/pjsua/wavs/tock8.wav
+lSLF07#2@40"Copy ../../../tests/pjsua/wavs/tock8.wav300102463#300102464#0(0"0(0#0#101"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../tests/pjsua/wavs/tock8.wav4300739032#625"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../tests/pjsua/wavs/tock8.wav /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app0#
+
+CGenerateDSYMFile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app.dSYM /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/ipjsystest
+r0
+
+CLd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/ipjsystest normal i386
+s300102556.295684
+e300102556.613117
+r0
+xLd
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/ipjsystest
+xnormal
+xi386
+old: warning: in ../../../pjmedia/lib/libpjmedia-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjmedia/lib/libpjmedia-audiodev-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjsip/lib/libpjsip-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjsip/lib/libpjsip-simple-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjsip/lib/libpjsip-ua-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjsip/lib/libpjsua-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjlib/lib/libpj-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjlib-util/lib/libpjlib-util-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjmedia/lib/libpjmedia-codec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjnath/lib/libpjnath-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../third_party/lib/libgsmcodec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../third_party/lib/libresample-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../third_party/lib/libg7221codec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../third_party/lib/libilbccodec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../third_party/lib/libmilenage-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../pjmedia/lib/libpjsdp-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../third_party/lib/libspeex-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in ../../../third_party/lib/libsrtp-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)
+oUndefined symbols:
+o  "_pjsua_conf_disconnect", referenced from:
+o      _systest_rec_audio in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjsua_conf_connect", referenced from:
+o      _systest_play_tone in systest.o
+o      _systest_play_wav in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjmedia_aud_dev_count", referenced from:
+o      _systest_list_audio_devs in systest.o
+o  "_pjmedia_tonegen_create2", referenced from:
+o      _systest_play_tone in systest.o
+o  "_pj_time_decode", referenced from:
+o      _systest_save_result in systest.o
+o  "_pjsua_set_no_snd_dev", referenced from:
+o      _systest_audio_test in systest.o
+o  "_pjmedia_aud_test", referenced from:
+o      _systest_audio_test in systest.o
+o  "_pjsua_destroy", referenced from:
+o      _systest_init in systest.o
+o      _systest_init in systest.o
+o      _systest_deinit in systest.o
+o  "_pj_file_open", referenced from:
+o      _systest_save_result in systest.o
+o  "_pjmedia_aud_dev_default_param", referenced from:
+o      _systest_audio_test in systest.o
+o  "_pjsua_conf_add_port", referenced from:
+o      _systest_play_tone in systest.o
+o  "_pjsua_logging_config_default", referenced from:
+o      _systest_init in systest.o
+o  "_pjsua_set_snd_dev", referenced from:
+o      _systest_audio_test in systest.o
+o      _systest_audio_test in systest.o
+o      _systest_audio_test in systest.o
+o      _systest_set_dev in systest.o
+o  "_pjsua_pool_create", referenced from:
+o      _systest_play_tone in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjsua_recorder_get_conf_port", referenced from:
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjmedia_aud_dev_get_info", referenced from:
+o      _systest_list_audio_devs in systest.o
+o      _systest_display_settings in systest.o
+o      _systest_display_settings in systest.o
+o  "_pjmedia_wav_player_get_len", referenced from:
+o      _calculate_latency in systest.o
+o  "_pjsua_recorder_destroy", referenced from:
+o      _systest_rec_audio in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o  "_pj_file_close", referenced from:
+o      _systest_save_result in systest.o
+o  "_pj_strerror", referenced from:
+o      _systest_perror in systest.o
+o      _systest_play_tone in systest.o
+o      _systest_play_wav in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_audio_test in systest.o
+o      _systest_audio_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_list_audio_devs in systest.o
+o      _systest_display_settings in systest.o
+o  "_pj_file_write", referenced from:
+o      _systest_save_result in systest.o
+o      _systest_save_result in systest.o
+o      _systest_save_result in systest.o
+o      _systest_save_result in systest.o
+o      _systest_save_result in systest.o
+o      _systest_save_result in systest.o
+o  "_pjmedia_port_get_frame", referenced from:
+o      _calculate_latency in systest.o
+o  "_pj_log_get_level", referenced from:
+o      _systest_play_tone in systest.o
+o      _systest_play_wav in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_audio_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_list_audio_devs in systest.o
+o      _systest_display_settings in systest.o
+o      _systest_wizard in systest.o
+o  "_pjsua_player_destroy", referenced from:
+o      _systest_play_wav in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjmedia_port_destroy", referenced from:
+o      _systest_play_tone in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjsua_init", referenced from:
+o      _systest_init in systest.o
+o  "_pj_pool_release", referenced from:
+o      _systest_play_tone in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjsua_conf_remove_port", referenced from:
+o      _systest_play_tone in systest.o
+o  "_pjsua_create", referenced from:
+o      _systest_init in systest.o
+o  "_pj_str", referenced from:
+o      _systest_play_tone in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_init in systest.o
+o  "_pj_gettimeofday", referenced from:
+o      _systest_save_result in systest.o
+o  "_pjsua_recorder_create", referenced from:
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o  "_pjmedia_tonegen_play", referenced from:
+o      _systest_play_tone in systest.o
+o  "_pjsua_player_create", referenced from:
+o      _create_player in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o  "_pj_pool_alloc", referenced from:
+o      _calculate_latency in systest.o
+o      _calculate_latency in systest.o
+o  "_pjsua_player_get_conf_port", referenced from:
+o      _systest_play_wav in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o  "_pj_log_3", referenced from:
+o      _systest_play_tone in systest.o
+o      _systest_play_wav in systest.o
+o      _systest_rec_audio in systest.o
+o      _systest_audio_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_latency_test in systest.o
+o      _systest_list_audio_devs in systest.o
+o      _systest_display_settings in systest.o
+o      _systest_wizard in systest.o
+o  "_pjsua_config_default", referenced from:
+o      _systest_init in systest.o
+o  "_pjsua_start", referenced from:
+o      _systest_init in systest.o
+o  "_pj_get_version", referenced from:
+o      _systest_display_settings in systest.o
+o  "_pjmedia_wav_player_port_create", referenced from:
+o      _systest_latency_test in systest.o
+o  "_pjsua_media_config_default", referenced from:
+o      _systest_init in systest.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@124"Link /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/ipjsystest300102556#300102556#0(9217"ld: warning: in ../../../pjmedia/lib/libpjmedia-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjmedia/lib/libpjmedia-audiodev-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjsip/lib/libpjsip-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjsip/lib/libpjsip-simple-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjsip/lib/libpjsip-ua-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjsip/lib/libpjsua-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjlib/lib/libpj-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjlib-util/lib/libpjlib-util-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjmedia/lib/libpjmedia-codec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjnath/lib/libpjnath-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../third_party/lib/libgsmcodec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../third_party/lib/libresample-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../third_party/lib/libg7221codec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../third_party/lib/libilbccodec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../third_party/lib/libmilenage-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../pjmedia/lib/libpjsdp-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../third_party/lib/libspeex-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in ../../../third_party/lib/libsrtp-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)Undefined symbols:  "_pjsua_conf_disconnect", referenced from:      _systest_rec_audio in systest.o      _systest_rec_audio in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o  "_pjsua_conf_connect", referenced from:      _systest_play_tone in systest.o      _systest_play_wav in systest.o      _systest_rec_audio in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o  "_pjmedia_aud_dev_count", referenced from:      _systest_list_audio_devs in systest.o  "_pjmedia_tonegen_create2", referenced from:      _systest_play_tone in systest.o  "_pj_time_decode", referenced from:      _systest_save_result in systest.o  "_pjsua_set_no_snd_dev", referenced from:      _systest_audio_test in systest.o  "_pjmedia_aud_test", referenced from:      _systest_audio_test in systest.o  "_pjsua_destroy", referenced from:      _systest_init in systest.o      _systest_init in systest.o      _systest_deinit in systest.o  "_pj_file_open", referenced from:      _systest_save_result in systest.o  "_pjmedia_aud_dev_default_param", referenced from:      _systest_audio_test in systest.o  "_pjsua_conf_add_port", referenced from:      _systest_play_tone in systest.o  "_pjsua_logging_config_default", referenced from:      _systest_init in systest.o  "_pjsua_set_snd_dev", referenced from:      _systest_audio_test in systest.o      _systest_audio_test in systest.o      _systest_audio_test in systest.o      _systest_set_dev in systest.o  "_pjsua_pool_create", referenced from:      _systest_play_tone in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o  "_pjsua_recorder_get_conf_port", referenced from:      _systest_rec_audio in systest.o      _systest_latency_test in systest.o  "_pjmedia_aud_dev_get_info", referenced from:      _systest_list_audio_devs in systest.o      _systest_display_settings in systest.o      _systest_display_settings in systest.o  "_pjmedia_wav_player_get_len", referenced from:      _calculate_latency in systest.o  "_pjsua_recorder_destroy", referenced from:      _systest_rec_audio in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o  "_pj_file_close", referenced from:      _systest_save_result in systest.o  "_pj_strerror", referenced from:      _systest_perror in systest.o      _systest_play_tone in systest.o      _systest_play_wav in systest.o      _systest_rec_audio in systest.o      _systest_audio_test in systest.o      _systest_audio_test in systest.o      _systest_latency_test in systest.o      _systest_list_audio_devs in systest.o      _systest_display_settings in systest.o  "_pj_file_write", referenced from:      _systest_save_result in systest.o      _systest_save_result in systest.o      _systest_save_result in systest.o      _systest_save_result in systest.o      _systest_save_result in systest.o      _systest_save_result in systest.o  "_pjmedia_port_get_frame", referenced from:      _calculate_latency in systest.o  "_pj_log_get_level", referenced from:      _systest_play_tone in systest.o      _systest_play_wav in systest.o      _systest_rec_audio in systest.o      _systest_audio_test in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o      _systest_list_audio_devs in systest.o      _systest_display_settings in systest.o      _systest_wizard in systest.o  "_pjsua_player_destroy", referenced from:      _systest_play_wav in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o  "_pjmedia_port_destroy", referenced from:      _systest_play_tone in systest.o      _systest_latency_test in systest.o  "_pjsua_init", referenced from:      _systest_init in systest.o  "_pj_pool_release", referenced from:      _systest_play_tone in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o  "_pjsua_conf_remove_port", referenced from:      _systest_play_tone in systest.o  "_pjsua_create", referenced from:      _systest_init in systest.o  "_pj_str", referenced from:      _systest_play_tone in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o      _systest_init in systest.o  "_pj_gettimeofday", referenced from:      _systest_save_result in systest.o  "_pjsua_recorder_create", referenced from:      _systest_rec_audio in systest.o      _systest_latency_test in systest.o  "_pjmedia_tonegen_play", referenced from:      _systest_play_tone in systest.o  "_pjsua_player_create", referenced from:      _create_player in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o  "_pj_pool_alloc", referenced from:      _calculate_latency in systest.o      _calculate_latency in systest.o  "_pjsua_player_get_conf_port", referenced from:      _systest_play_wav in systest.o      _systest_rec_audio in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o  "_pj_log_3", referenced from:      _systest_play_tone in systest.o      _systest_play_wav in systest.o      _systest_rec_audio in systest.o      _systest_audio_test in systest.o      _systest_latency_test in systest.o      _systest_latency_test in systest.o      _systest_list_audio_devs in systest.o      _systest_display_settings in systest.o      _systest_wizard in systest.o  "_pjsua_config_default", referenced from:      _systest_init in systest.o  "_pjsua_start", referenced from:      _systest_init in systest.o  "_pj_get_version", referenced from:      _systest_display_settings in systest.o  "_pjmedia_wav_player_port_create", referenced from:      _systest_latency_test in systest.o  "_pjsua_media_config_default", referenced from:      _systest_init in systest.old: symbol(s) not foundcollect2: ld returned 1 exit status175(22@148"In ../../../pjmedia/lib/libpjmedia-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#0#162#0(6@0"300102556#0#0#0#0#0"0(22@157"In ../../../pjmedia/lib/libpjmedia-audiodev-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#162#171#0(6@0"300102556#0#0#0#0#0"0(22@144"In ../../../pjsip/lib/libpjsip-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#333#158#0(6@0"300102556#0#0#0#0#0"0(22@151"In ../../../pjsip/lib/libpjsip-simple-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#491#165#0(6@0"300102556#0#0#0#0#0"0(22@147"In ../../../pjsip/lib/libpjsip-ua-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#656#161#0(6@0"300102556#0#0#0#0#0"0(22@144"In ../../../pjsip/lib/libpjsua-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#817#158#0(6@0"300102556#0#0#0#0#0"0(22@141"In ../../../pjlib/lib/libpj-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#975#155#0(6@0"300102556#0#0#0#0#0"0(22@154"In ../../../pjlib-util/lib/libpjlib-util-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#1130#168#0(6@0"300102556#0#0#0#0#0"0(22@154"In ../../../pjmedia/lib/libpjmedia-codec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#1298#168#0(6@0"300102556#0#0#0#0#0"0(22@146"In ../../../pjnath/lib/libpjnath-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#1466#160#0(6@0"300102556#0#0#0#0#0"0(22@153"In ../../../third_party/lib/libgsmcodec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#1626#167#0(6@0"300102556#0#0#0#0#0"0(22@153"In ../../../third_party/lib/libresample-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#1793#167#0(6@0"300102556#0#0#0#0#0"0(22@155"In ../../../third_party/lib/libg7221codec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#1960#169#0(6@0"300102556#0#0#0#0#0"0(22@154"In ../../../third_party/lib/libilbccodec-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#2129#168#0(6@0"300102556#0#0#0#0#0"0(22@153"In ../../../third_party/lib/libmilenage-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#2297#167#0(6@0"300102556#0#0#0#0#0"0(22@146"In ../../../pjmedia/lib/libpjsdp-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#2464#160#0(6@0"300102556#0#0#0#0#0"0(22@150"In ../../../third_party/lib/libspeex-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#2624#164#0(6@0"300102556#0#0#0#0#0"0(22@149"In ../../../third_party/lib/libsrtp-arm-apple-darwin9.a, file was built for unsupported file format which is not the architecture being linked (i386)300102556#2788#163#0(6@0"300102556#0#0#0#0#0"0(4@42""_pjsua_conf_disconnect", referenced from:300102556#2970#45#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#3015#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#3053#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#3091#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#3129#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#3170#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#3211#41#0(6@0"300102556#0#0#0#0#0"0(4@39""_pjsua_conf_connect", referenced from:300102556#3252#42#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#3294#38#0(6@0"300102556#0#0#0#0#0"0(13@30"_systest_play_wav in systest.o300102556#3332#37#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#3369#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#3407#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#3445#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#3486#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#3527#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#3568#41#0(6@0"300102556#0#0#0#0#0"0(4@42""_pjmedia_aud_dev_count", referenced from:300102556#3609#45#0(6@0"300102556#0#0#0#0#0"0(13@37"_systest_list_audio_devs in systest.o300102556#3654#44#0(6@0"300102556#0#0#0#0#0"0(4@44""_pjmedia_tonegen_create2", referenced from:300102556#3698#47#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#3745#38#0(6@0"300102556#0#0#0#0#0"0(4@35""_pj_time_decode", referenced from:300102556#3783#38#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#3821#40#0(6@0"300102556#0#0#0#0#0"0(4@41""_pjsua_set_no_snd_dev", referenced from:300102556#3861#44#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#3905#39#0(6@0"300102556#0#0#0#0#0"0(4@37""_pjmedia_aud_test", referenced from:300102556#3944#40#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#3984#39#0(6@0"300102556#0#0#0#0#0"0(4@34""_pjsua_destroy", referenced from:300102556#4023#37#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#4060#33#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#4093#33#0(6@0"300102556#0#0#0#0#0"0(13@28"_systest_deinit in systest.o300102556#4126#35#0(6@0"300102556#0#0#0#0#0"0(4@33""_pj_file_open", referenced from:300102556#4161#36#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#4197#40#0(6@0"300102556#0#0#0#0#0"0(4@50""_pjmedia_aud_dev_default_param", referenced from:300102556#4237#53#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#4290#39#0(6@0"300102556#0#0#0#0#0"0(4@40""_pjsua_conf_add_port", referenced from:300102556#4329#43#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#4372#38#0(6@0"300102556#0#0#0#0#0"0(4@49""_pjsua_logging_config_default", referenced from:300102556#4410#52#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#4462#33#0(6@0"300102556#0#0#0#0#0"0(4@38""_pjsua_set_snd_dev", referenced from:300102556#4495#41#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#4536#39#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#4575#39#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#4614#39#0(6@0"300102556#0#0#0#0#0"0(13@29"_systest_set_dev in systest.o300102556#4653#36#0(6@0"300102556#0#0#0#0#0"0(4@38""_pjsua_pool_create", referenced from:300102556#4689#41#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#4730#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#4768#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#4806#41#0(6@0"300102556#0#0#0#0#0"0(4@49""_pjsua_recorder_get_conf_port", referenced from:300102556#4847#52#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#4899#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#4937#41#0(6@0"300102556#0#0#0#0#0"0(4@45""_pjmedia_aud_dev_get_info", referenced from:300102556#4978#48#0(6@0"300102556#0#0#0#0#0"0(13@37"_systest_list_audio_devs in systest.o300102556#5026#44#0(6@0"300102556#0#0#0#0#0"0(13@38"_systest_display_settings in systest.o300102556#5070#45#0(6@0"300102556#0#0#0#0#0"0(13@38"_systest_display_settings in systest.o300102556#5115#45#0(6@0"300102556#0#0#0#0#0"0(4@47""_pjmedia_wav_player_get_len", referenced from:300102556#5160#50#0(6@0"300102556#0#0#0#0#0"0(13@31"_calculate_latency in systest.o300102556#5210#38#0(6@0"300102556#0#0#0#0#0"0(4@43""_pjsua_recorder_destroy", referenced from:300102556#5248#46#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#5294#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#5332#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#5370#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#5411#41#0(6@0"300102556#0#0#0#0#0"0(4@34""_pj_file_close", referenced from:300102556#5452#37#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#5489#40#0(6@0"300102556#0#0#0#0#0"0(4@32""_pj_strerror", referenced from:300102556#5529#35#0(6@0"300102556#0#0#0#0#0"0(13@28"_systest_perror in systest.o300102556#5564#35#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#5599#38#0(6@0"300102556#0#0#0#0#0"0(13@30"_systest_play_wav in systest.o300102556#5637#37#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#5674#38#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#5712#39#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#5751#39#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#5790#41#0(6@0"300102556#0#0#0#0#0"0(13@37"_systest_list_audio_devs in systest.o300102556#5831#44#0(6@0"300102556#0#0#0#0#0"0(13@38"_systest_display_settings in systest.o300102556#5875#45#0(6@0"300102556#0#0#0#0#0"0(4@34""_pj_file_write", referenced from:300102556#5920#37#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#5957#40#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#5997#40#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#6037#40#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#6077#40#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#6117#40#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#6157#40#0(6@0"300102556#0#0#0#0#0"0(4@43""_pjmedia_port_get_frame", referenced from:300102556#6197#46#0(6@0"300102556#0#0#0#0#0"0(13@31"_calculate_latency in systest.o300102556#6243#38#0(6@0"300102556#0#0#0#0#0"0(4@37""_pj_log_get_level", referenced from:300102556#6281#40#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#6321#38#0(6@0"300102556#0#0#0#0#0"0(13@30"_systest_play_wav in systest.o300102556#6359#37#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#6396#38#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#6434#39#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#6473#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#6514#41#0(6@0"300102556#0#0#0#0#0"0(13@37"_systest_list_audio_devs in systest.o300102556#6555#44#0(6@0"300102556#0#0#0#0#0"0(13@38"_systest_display_settings in systest.o300102556#6599#45#0(6@0"300102556#0#0#0#0#0"0(13@28"_systest_wizard in systest.o300102556#6644#35#0(6@0"300102556#0#0#0#0#0"0(4@41""_pjsua_player_destroy", referenced from:300102556#6679#44#0(6@0"300102556#0#0#0#0#0"0(13@30"_systest_play_wav in systest.o300102556#6723#37#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#6760#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#6798#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#6839#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#6880#41#0(6@0"300102556#0#0#0#0#0"0(4@41""_pjmedia_port_destroy", referenced from:300102556#6921#44#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#6965#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#7003#41#0(6@0"300102556#0#0#0#0#0"0(4@31""_pjsua_init", referenced from:300102556#7044#34#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#7078#33#0(6@0"300102556#0#0#0#0#0"0(4@36""_pj_pool_release", referenced from:300102556#7111#39#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#7150#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#7188#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#7226#41#0(6@0"300102556#0#0#0#0#0"0(4@43""_pjsua_conf_remove_port", referenced from:300102556#7267#46#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#7313#38#0(6@0"300102556#0#0#0#0#0"0(4@33""_pjsua_create", referenced from:300102556#7351#36#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#7387#33#0(6@0"300102556#0#0#0#0#0"0(4@27""_pj_str", referenced from:300102556#7420#30#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#7450#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#7488#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#7526#41#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#7567#33#0(6@0"300102556#0#0#0#0#0"0(4@36""_pj_gettimeofday", referenced from:300102556#7600#39#0(6@0"300102556#0#0#0#0#0"0(13@33"_systest_save_result in systest.o300102556#7639#40#0(6@0"300102556#0#0#0#0#0"0(4@42""_pjsua_recorder_create", referenced from:300102556#7679#45#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#7724#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#7762#41#0(6@0"300102556#0#0#0#0#0"0(4@41""_pjmedia_tonegen_play", referenced from:300102556#7803#44#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#7847#38#0(6@0"300102556#0#0#0#0#0"0(4@40""_pjsua_player_create", referenced from:300102556#7885#43#0(6@0"300102556#0#0#0#0#0"0(13@27"_create_player in systest.o300102556#7928#34#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#7962#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#8000#41#0(6@0"300102556#0#0#0#0#0"0(4@34""_pj_pool_alloc", referenced from:300102556#8041#37#0(6@0"300102556#0#0#0#0#0"0(13@31"_calculate_latency in systest.o300102556#8078#38#0(6@0"300102556#0#0#0#0#0"0(13@31"_calculate_latency in systest.o300102556#8116#38#0(6@0"300102556#0#0#0#0#0"0(4@47""_pjsua_player_get_conf_port", referenced from:300102556#8154#50#0(6@0"300102556#0#0#0#0#0"0(13@30"_systest_play_wav in systest.o300102556#8204#37#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#8241#38#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#8279#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#8320#41#0(6@0"300102556#0#0#0#0#0"0(4@29""_pj_log_3", referenced from:300102556#8361#32#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_play_tone in systest.o300102556#8393#38#0(6@0"300102556#0#0#0#0#0"0(13@30"_systest_play_wav in systest.o300102556#8431#37#0(6@0"300102556#0#0#0#0#0"0(13@31"_systest_rec_audio in systest.o300102556#8468#38#0(6@0"300102556#0#0#0#0#0"0(13@32"_systest_audio_test in systest.o300102556#8506#39#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#8545#41#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#8586#41#0(6@0"300102556#0#0#0#0#0"0(13@37"_systest_list_audio_devs in systest.o300102556#8627#44#0(6@0"300102556#0#0#0#0#0"0(13@38"_systest_display_settings in systest.o300102556#8671#45#0(6@0"300102556#0#0#0#0#0"0(13@28"_systest_wizard in systest.o300102556#8716#35#0(6@0"300102556#0#0#0#0#0"0(4@41""_pjsua_config_default", referenced from:300102556#8751#44#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#8795#33#0(6@0"300102556#0#0#0#0#0"0(4@32""_pjsua_start", referenced from:300102556#8828#35#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#8863#33#0(6@0"300102556#0#0#0#0#0"0(4@35""_pj_get_version", referenced from:300102556#8896#38#0(6@0"300102556#0#0#0#0#0"0(13@38"_systest_display_settings in systest.o300102556#8934#45#0(6@0"300102556#0#0#0#0#0"0(4@51""_pjmedia_wav_player_port_create", referenced from:300102556#8979#54#0(6@0"300102556#0#0#0#0#0"0(13@34"_systest_latency_test in systest.o300102556#9033#41#0(6@0"300102556#0#0#0#0#0"0(4@47""_pjsua_media_config_default", referenced from:300102556#9074#50#0(6@0"300102556#0#0#0#0#0"0(13@26"_systest_init in systest.o300102556#9124#33#0(6@0"300102556#0#0#0#0#0"0(13@19"Symbol(s) not found300102556#9157#24#0(6@0"300102556#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status300102556#9181#36#0(6@0"300102556#0#0#0#0#0"0(0#0#0"4300739032#2293"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -L../../../pjlib/lib -L../../../pjlib-util/lib -L../../../pjnath/lib -L../../../pjmedia/lib -L../../../pjsip/lib -L../../../third_party/lib -L/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjmedia/lib -L/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjsip/lib -L/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjlib/lib -L/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjlib-util/lib -L/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../pjnath/lib -L/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/../../../third_party/lib -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -filelist /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/Objects-normal/i386/ipjsystest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -lpjmedia-arm-apple-darwin9 -lpjmedia-audiodev-arm-apple-darwin9 -lpjsip-arm-apple-darwin9 -lpjsip-simple-arm-apple-darwin9 -lpjsip-ua-arm-apple-darwin9 -lpjsua-arm-apple-darwin9 -lpj-arm-apple-darwin9 -lpjlib-util-arm-apple-darwin9 -lpjmedia-codec-arm-apple-darwin9 -lpjnath-arm-apple-darwin9 -framework AudioToolbox -lgsmcodec-arm-apple-darwin9 -lresample-arm-apple-darwin9 -lg7221codec-arm-apple-darwin9 -lilbccodec-arm-apple-darwin9 -lmilenage-arm-apple-darwin9 -lpjsdp-arm-apple-darwin9 -lspeex-arm-apple-darwin9 -lsrtp-arm-apple-darwin9 -o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/ipjsystest1#
+
+CProcessInfoPlistFile /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/Info.plist ipjsystest-Info.plist
+s300102552.032382
+e300102552.036201
+r1
+xProcessInfoPlistFile
+x/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/Info.plist
+xipjsystest-Info.plist
+lSLF07#2@29"Process ipjsystest-Info.plist300102552#300102552#0(0"0(0#0#87"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest-Info.plist4300739032#631"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility ipjsystest-Info.plist -genpkginfo /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app/Info.plist0#
+
+CProcessPCH /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-cilwacshmusiktgfrohvumoeccvv/ipjsystest_Prefix.pch.gch ipjsystest_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s300102554.129469
+e300102554.315250
+r1
+xProcessPCH
+x/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-cilwacshmusiktgfrohvumoeccvv/ipjsystest_Prefix.pch.gch
+xipjsystest_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ipjsystest_Prefix.pch300102554#300102554#0(0"0(0#0#87"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch4300739032#2261"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch -o /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-cilwacshmusiktgfrohvumoeccvv/ipjsystest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch.gch ipjsystest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300102554.128492
+e300102555.879513
+r1
+xProcessPCH
+x/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch.gch
+xipjsystest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ipjsystest_Prefix.pch300102554#300102555#0(0"0(0#0#87"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch4300739032#2271"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch -o /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-dtslliyepiyaqufkiiarfpwukgyp/ipjsystest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-eqqtvngtnksspxbvaacmdezjcxud/ipjsystest_Prefix.pch.gch ipjsystest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300102465.328095
+e300102467.321729
+r1
+xProcessPCH
+x/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-eqqtvngtnksspxbvaacmdezjcxud/ipjsystest_Prefix.pch.gch
+xipjsystest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ipjsystest_Prefix.pch300102465#300102467#0(0"0(0#0#87"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch4300739032#2273"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch -o /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-eqqtvngtnksspxbvaacmdezjcxud/ipjsystest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-gfsbipsjuhcfxshgqifztxkgditu/ipjsystest_Prefix.pch.gch ipjsystest_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s300102465.329210
+e300102466.611693
+r1
+xProcessPCH
+x/var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-gfsbipsjuhcfxshgqifztxkgditu/ipjsystest_Prefix.pch.gch
+xipjsystest_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ipjsystest_Prefix.pch300102465#300102466#0(0"0(0#0#87"/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch4300739032#2263"    cd /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-generated-files.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-own-target-headers.hmap -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-all-target-headers.hmap -iquote /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/ipjsystest-project-headers.hmap -F/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/include -I../../../pjsip/include -I../../../pjlib/include -I../../../pjlib-util/include -I../../../pjnath/include -I../../../pjmedia/include -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources/i386 -I/Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/ipjsystest.build/Debug-iphonesimulator/ipjsystest.build/DerivedSources -c /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch -o /var/folders/ae/aeARDLdiFlmMjK4clTSzlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipjsystest_Prefix-gfsbipsjuhcfxshgqifztxkgditu/ipjsystest_Prefix.pch.gch0#
+
+CTouch /Users/tasvir/Documents/pjsip/pjproject/pjsip-apps/src/ipjsystest/build/Debug-iphonesimulator/ipjsystest.app
+r0
+

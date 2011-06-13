@@ -1,0 +1,43 @@
+10
+
+dir
+3235
+http://svn.pjsip.org/repos/pjproject/trunk/pjsip/src
+http://svn.pjsip.org/repos
+
+
+
+2010-06-24T13:32:05.158077Z
+3223
+bennylp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+test
+dir
+
+pjsip
+dir
+
+pjsua-lib
+dir
+
+pjsip-ua
+dir
+
+pjsip-simple
+dir
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/!svn/ver/3008/pjproject/trunk/pjsip/build
+END
+pjsip_core.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/2970/pjproject/trunk/pjsip/build/pjsip_core.vcproj
+END
+pjsip_ua.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/2861/pjproject/trunk/pjsip/build/pjsip_ua.dsp
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/1227/pjproject/trunk/pjsip/build/os-rtems.mak
+END
+pjsip_simple.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/2968/pjproject/trunk/pjsip/build/pjsip_simple.vcproj
+END
+pjsip.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/1227/pjproject/trunk/pjsip/build/pjsip.dsw
+END
+pjsip_core.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/3008/pjproject/trunk/pjsip/build/pjsip_core.dsp
+END
+pjsip_simple.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/2974/pjproject/trunk/pjsip/build/pjsip_simple.dsp
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/1227/pjproject/trunk/pjsip/build/os-auto.mak.in
+END
+pjsip_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/2664/pjproject/trunk/pjsip/build/pjsip_test.vcproj
+END
+pjsip_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/2663/pjproject/trunk/pjsip/build/pjsip_test.dsp
+END
+pjsua_lib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/2664/pjproject/trunk/pjsip/build/pjsua_lib.vcproj
+END
+pjsip_ua.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/2858/pjproject/trunk/pjsip/build/pjsip_ua.vcproj
+END
+pjsua_lib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/1454/pjproject/trunk/pjsip/build/pjsua_lib.dsp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/2970/pjproject/trunk/pjsip/build/Makefile
+END

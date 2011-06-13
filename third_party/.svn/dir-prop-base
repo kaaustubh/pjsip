@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 65
+portaudio	-r1433 https://www.portaudio.com/repos/portaudio/trunk
+
+END

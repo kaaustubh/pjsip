@@ -1,0 +1,248 @@
+output/libportaudio-i386-apple-darwin9/pa_mac_hostapis.o: src/pa_mac_hostapis.c \
+  src/../../../portaudio/src/os/unix/pa_unix_hostapis.c src/pa_hostapi.h \
+  src/../../../portaudio/src/common/pa_hostapi.h src/portaudio.h \
+  src/../../../portaudio/include/portaudio.h
+output/libportaudio-i386-apple-darwin9/pa_unix_util.o: src/pa_unix_util.c \
+  src/../../../portaudio/src/os/unix/pa_unix_util.c \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/pthread.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/pthread_impl.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sched.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/time.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/unistd.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/unistd.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/select.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_select.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/time.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/assert.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/errno.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/errno.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/mach_time.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/mach_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdint.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/host_info.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/message.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/port.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/boolean.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/boolean.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/boolean.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/vm_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/vm_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/vm_param.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/kern_return.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/kern_return.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/kern_return.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_statistics.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/time_value.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/host_notify.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/host_special_ports.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/memory_object_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_prot.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_sync.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/exception_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/exception.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/exception.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/thread_status.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/thread_status.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/thread_status.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/fp_reg.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/thread_state.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/eflags.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/thread_state.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/processor_info.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/processor_info.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/processor_info.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/task_info.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/policy.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/task_policy.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/task_special_ports.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/thread_info.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/thread_policy.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/thread_special_ports.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/clock_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_attributes.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_inherit.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_purgable.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_behavior.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/vm_region.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/machine/vm_param.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/kmod.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/std_types.h \
+  src/pa_util.h src/../../../portaudio/src/common/pa_util.h \
+  src/portaudio.h src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/os/unix/pa_unix_util.h src/pa_cpuload.h \
+  src/../../../portaudio/src/common/pa_cpuload.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/signal.h \
+  src/pa_debugprint.h src/../../../portaudio/src/common/pa_debugprint.h
+output/libportaudio-i386-apple-darwin9/pa_allocation.o: src/pa_allocation.c \
+  src/../../../portaudio/src/common/pa_allocation.c \
+  src/../../../portaudio/src/common/pa_allocation.h \
+  src/../../../portaudio/src/common/pa_util.h src/portaudio.h \
+  src/../../../portaudio/include/portaudio.h
+output/libportaudio-i386-apple-darwin9/pa_converters.o: src/pa_converters.c \
+  src/../../../portaudio/src/common/pa_converters.c \
+  src/../../../portaudio/src/common/pa_converters.h src/portaudio.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_dither.h \
+  src/../../../portaudio/src/common/pa_types.h \
+  src/../../../portaudio/src/common/pa_endianness.h
+output/libportaudio-i386-apple-darwin9/pa_cpuload.o: src/pa_cpuload.c \
+  src/../../../portaudio/src/common/pa_cpuload.c \
+  src/../../../portaudio/src/common/pa_cpuload.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/assert.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  src/../../../portaudio/src/common/pa_util.h src/portaudio.h \
+  src/../../../portaudio/include/portaudio.h
+output/libportaudio-i386-apple-darwin9/pa_dither.o: src/pa_dither.c \
+  src/../../../portaudio/src/common/pa_dither.c \
+  src/../../../portaudio/src/common/pa_types.h \
+  src/../../../portaudio/src/common/pa_dither.h
+output/libportaudio-i386-apple-darwin9/pa_debugprint.o: src/pa_debugprint.c \
+  src/../../../portaudio/src/common/pa_debugprint.c \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h \
+  src/../../../portaudio/src/common/pa_debugprint.h
+output/libportaudio-i386-apple-darwin9/pa_front.o: src/pa_front.c src/../../../portaudio/src/common/pa_front.c \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/memory.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/assert.h \
+  src/portaudio.h src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_util.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_endianness.h \
+  src/../../../portaudio/src/common/pa_types.h \
+  src/../../../portaudio/src/common/pa_hostapi.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_stream.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_trace.h \
+  src/../../../portaudio/src/common/pa_debugprint.h
+output/libportaudio-i386-apple-darwin9/pa_process.o: src/pa_process.c \
+  src/../../../portaudio/src/common/pa_process.c \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/assert.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  src/../../../portaudio/src/common/pa_process.h src/portaudio.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_converters.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_dither.h \
+  src/../../../portaudio/src/common/pa_types.h \
+  src/../../../portaudio/src/common/pa_util.h \
+  src/../../../portaudio/include/portaudio.h
+output/libportaudio-i386-apple-darwin9/pa_skeleton.o: src/pa_skeleton.c \
+  src/../../../portaudio/src/common/pa_skeleton.c \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  src/../../../portaudio/src/common/pa_util.h src/portaudio.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_allocation.h \
+  src/../../../portaudio/src/common/pa_hostapi.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_stream.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_cpuload.h \
+  src/../../../portaudio/src/common/pa_process.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_converters.h \
+  src/../../../portaudio/include/portaudio.h \
+  src/../../../portaudio/src/common/pa_dither.h \
+  src/../../../portaudio/src/common/pa_types.h
+output/libportaudio-i386-apple-darwin9/pa_stream.o: src/pa_stream.c \
+  src/../../../portaudio/src/common/pa_stream.c \
+  src/../../../portaudio/src/common/pa_stream.h src/portaudio.h \
+  src/../../../portaudio/include/portaudio.h
+output/libportaudio-i386-apple-darwin9/pa_trace.o: src/pa_trace.c src/../../../portaudio/src/common/pa_trace.c \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_string.h \
+  src/../../../portaudio/src/common/pa_trace.h

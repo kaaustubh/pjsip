@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/3152/pjproject/trunk/third_party/build/g7221
+END
+libg7221codec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/2731/pjproject/trunk/third_party/build/g7221/libg7221codec.vcproj
+END
+libg7221codec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/2623/pjproject/trunk/third_party/build/g7221/libg7221codec.dsp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/2623/pjproject/trunk/third_party/build/g7221/Makefile
+END

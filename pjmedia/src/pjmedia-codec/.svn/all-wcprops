@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/3202/pjproject/trunk/pjmedia/src/pjmedia-codec
+END
+g722.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3202/pjproject/trunk/pjmedia/src/pjmedia-codec/g722.c
+END
+speex_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/src/pjmedia-codec/speex_codec.c
+END
+g7221.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/2760/pjproject/trunk/pjmedia/src/pjmedia-codec/g7221.c
+END
+l16.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3146/pjproject/trunk/pjmedia/src/pjmedia-codec/l16.c
+END
+gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3158/pjproject/trunk/pjmedia/src/pjmedia-codec/gsm.c
+END
+passthrough.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3165/pjproject/trunk/pjmedia/src/pjmedia-codec/passthrough.c
+END
+ipp_codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3199/pjproject/trunk/pjmedia/src/pjmedia-codec/ipp_codecs.c
+END
+ilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3175/pjproject/trunk/pjmedia/src/pjmedia-codec/ilbc.c
+END

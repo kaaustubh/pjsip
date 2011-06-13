@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/3224/pjproject/trunk/pjmedia/include/pjmedia
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/clock.h
+END
+splitcomb.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/splitcomb.h
+END
+transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/2945/pjproject/trunk/pjmedia/include/pjmedia/transport.h
+END
+transport_adapter_sample.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/transport_adapter_sample.h
+END
+stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/stereo.h
+END
+transport_udp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/transport_udp.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/2506/pjproject/trunk/pjmedia/include/pjmedia/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3067/pjproject/trunk/pjmedia/include/pjmedia/config.h
+END
+bidirectional.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/bidirectional.h
+END
+transport_ice.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/2945/pjproject/trunk/pjmedia/include/pjmedia/transport_ice.h
+END
+circbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/circbuf.h
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3199/pjproject/trunk/pjmedia/include/pjmedia/codec.h
+END
+symbian_sound_aps.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/2506/pjproject/trunk/pjmedia/include/pjmedia/symbian_sound_aps.h
+END
+echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/echo.h
+END
+wav_playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/wav_playlist.h
+END
+plc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/plc.h
+END
+null_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/null_port.h
+END
+silencedet.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/silencedet.h
+END
+g711.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3083/pjproject/trunk/pjmedia/include/pjmedia/g711.h
+END
+rtcp_xr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/rtcp_xr.h
+END
+echo_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/echo_port.h
+END
+port.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/2506/pjproject/trunk/pjmedia/include/pjmedia/port.h
+END
+transport_loop.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/2845/pjproject/trunk/pjmedia/include/pjmedia/transport_loop.h
+END
+wsola.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/2850/pjproject/trunk/pjmedia/include/pjmedia/wsola.h
+END
+sdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3198/pjproject/trunk/pjmedia/include/pjmedia/sdp.h
+END
+jbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3065/pjproject/trunk/pjmedia/include/pjmedia/jbuf.h
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/2506/pjproject/trunk/pjmedia/include/pjmedia/sound.h
+END
+delaybuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/delaybuf.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/2844/pjproject/trunk/pjmedia/include/pjmedia/stream.h
+END
+sound_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/2506/pjproject/trunk/pjmedia/include/pjmedia/sound_port.h
+END
+master_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3214/pjproject/trunk/pjmedia/include/pjmedia/master_port.h
+END
+tonegen.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/tonegen.h
+END
+wav_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/wav_port.h
+END
+config_auto.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/config_auto.h.in
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/wave.h
+END
+transport_srtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/2597/pjproject/trunk/pjmedia/include/pjmedia/transport_srtp.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/rtp.h
+END
+conference.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/2728/pjproject/trunk/pjmedia/include/pjmedia/conference.h
+END
+rtcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3224/pjproject/trunk/pjmedia/include/pjmedia/rtcp.h
+END
+resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/resample.h
+END
+alaw_ulaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/2506/pjproject/trunk/pjmedia/include/pjmedia/alaw_ulaw.h
+END
+doxygen.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/doxygen.h
+END
+sdp_neg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3217/pjproject/trunk/pjmedia/include/pjmedia/sdp_neg.h
+END
+endpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/2506/pjproject/trunk/pjmedia/include/pjmedia/endpoint.h
+END
+mem_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/mem_port.h
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/2844/pjproject/trunk/pjmedia/include/pjmedia/session.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/2394/pjproject/trunk/pjmedia/include/pjmedia/errno.h
+END

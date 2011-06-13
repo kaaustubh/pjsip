@@ -1,0 +1,411 @@
+output/libg7221codec-i386-apple-darwin9/common.o: ../../g7221/common/common.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/huff_def.h \
+  ../../g7221/common/huff_tab.h ../../g7221/common/tables.h \
+  ../../g7221/common/count.h
+output/libg7221codec-i386-apple-darwin9/huff_tab.o: ../../g7221/common/huff_tab.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/huff_def.h
+output/libg7221codec-i386-apple-darwin9/tables.o: ../../g7221/common/tables.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h
+output/libg7221codec-i386-apple-darwin9/basic_op.o: ../../g7221/common/basic_op.c ../../g7221/common/config.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../../pjlib/include/pj/assert.h \
+  ../../../pjlib/include/pj/compat/assert.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/assert.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h
+output/libg7221codec-i386-apple-darwin9/coef2sam.o: ../../g7221/decode/coef2sam.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/tables.h \
+  ../../g7221/common/count.h
+output/libg7221codec-i386-apple-darwin9/dct4_s.o: ../../g7221/decode/dct4_s.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/count.h \
+  ../../g7221/decode/dct4_s.h
+output/libg7221codec-i386-apple-darwin9/decoder.o: ../../g7221/decode/decoder.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/tables.h \
+  ../../g7221/common/huff_def.h ../../g7221/common/count.h
+output/libg7221codec-i386-apple-darwin9/dct4_a.o: ../../g7221/encode/dct4_a.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/count.h \
+  ../../g7221/encode/dct4_a.h
+output/libg7221codec-i386-apple-darwin9/sam2coef.o: ../../g7221/encode/sam2coef.c ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/tables.h \
+  ../../g7221/common/count.h
+output/libg7221codec-i386-apple-darwin9/encoder.o: ../../g7221/encode/encoder.c \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/cdefs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_stdio.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/secure/_common.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/architecture/i386/math.h \
+  ../../g7221/common/defs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/AvailabilityInternal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/wait.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/appleapiopts.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/signal.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/mach/i386/_structs.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/resource.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/_endian.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/alloca.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/machine/types.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/i386/types.h \
+  ../../g7221/common/typedef.h ../../../pjlib/include/pj/types.h \
+  ../../../pjlib/include/pj/config.h \
+  ../../../pjlib/include/pj/compat/cc_gcc.h \
+  ../../../pjlib/include/pj/compat/os_auto.h \
+  ../../../pjlib/include/pj/compat/m_auto.h \
+  ../../../pjlib/include/pj/compat/size_t.h \
+  /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h \
+  ../../../pjlib/include/pj/config_site.h \
+  ../../../pjlib/include/pj/config_site_sample.h \
+  ../../g7221/common/basic_op.h ../../g7221/common/config.h \
+  ../../g7221/common/basic_op_i.h ../../g7221/common/huff_def.h \
+  ../../g7221/common/tables.h ../../g7221/common/count.h
