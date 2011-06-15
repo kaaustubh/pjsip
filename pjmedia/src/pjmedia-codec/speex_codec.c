@@ -156,7 +156,7 @@ static pj_status_t get_speex_info( struct speex_param *p )
 {
     void *state;
     int tmp;
-	int vbr;
+	int abr;
 
     /* Create temporary encoder */
     state = speex_encoder_init(p->mode);
@@ -171,12 +171,13 @@ static pj_status_t get_speex_info( struct speex_param *p )
     speex_encoder_ctl(state, SPEEX_SET_SAMPLING_RATE, &p->clock_rate);
 
     /* VAD off to have max bitrate */
-    tmp = 0;
+    tmp = 1;
     speex_encoder_ctl(state, SPEEX_SET_VAD, &tmp);
 	
-	//set vbr on
-	vbr = 1;
-	speex_encoder_ctl(state, SPEEX_SET_VBR, &vbr);
+	//set abr on
+	//since abr is on vbr will also be enabled
+	abr = 8000;
+	speex_encoder_ctl(state, SPEEX_SET_ABR, &abr);
 
     /* Complexity. */
     if (p->complexity != -1)
