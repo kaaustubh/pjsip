@@ -189,7 +189,7 @@ void *nb_encoder_init(const SpeexMode *m)
    st->vbr = (VBRState*)speex_alloc(sizeof(VBRState));
    vbr_init(st->vbr);
    st->vbr_quality = 8;
-   st->vbr_enabled = 1; //changed to 1 to enable vbr. Default is 0
+   st->vbr_enabled = 0;
    st->vbr_max = 0;
    st->vad_enabled = 0;
    st->dtx_enabled = 0;

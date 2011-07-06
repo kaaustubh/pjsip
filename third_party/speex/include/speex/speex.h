@@ -201,7 +201,7 @@ extern "C" {
 */
 
 /** Number of defined modes in Speex */
-#define SPEEX_NB_MODES 3
+#define SPEEX_NB_MODES 3 
 
 /** modeID for the defined narrowband mode */
 #define SPEEX_MODEID_NB 0
