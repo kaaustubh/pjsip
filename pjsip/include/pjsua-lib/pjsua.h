@@ -3758,7 +3758,7 @@ PJ_DECL(pj_status_t) pjsua_im_typing(pjsua_acc_id acc_id,
  * is the default value for pjsua_media_config.audio_frame_ptime.
  */
 #ifndef PJSUA_DEFAULT_AUDIO_FRAME_PTIME
-#   define PJSUA_DEFAULT_AUDIO_FRAME_PTIME  20
+#   define PJSUA_DEFAULT_AUDIO_FRAME_PTIME  40
 #endif
 
 
@@ -3767,7 +3767,7 @@ PJ_DECL(pj_status_t) pjsua_im_typing(pjsua_acc_id acc_id,
  * for pjsua_media_config.quality.
  */
 #ifndef PJSUA_DEFAULT_CODEC_QUALITY
-#   define PJSUA_DEFAULT_CODEC_QUALITY	3
+#   define PJSUA_DEFAULT_CODEC_QUALITY	8
 #endif
 
 /**

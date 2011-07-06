@@ -272,7 +272,7 @@ PJ_DEF(pj_status_t) pjmedia_wav_playlist_create(pj_pool_t *pool,
 
     /* Normalize ptime */
     if (ptime == 0)
-	ptime = 20;
+	ptime = 40;
 
     /* Create fport instance. */
     fport = create_file_list_port(pool, port_label);

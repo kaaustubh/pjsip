@@ -214,7 +214,7 @@ static void build_dev_info(UINT deviceId, struct wmme_dev_info *wdi,
 	wdi->info.name[sizeof(wdi->info.name)-1] = '\0';
     }
 
-    wdi->info.default_samples_per_sec = 16000;
+    wdi->info.default_samples_per_sec = 8000;//Kaaustubh-original value is 16000
     strcpy(wdi->info.driver, "WMME");
 
     if (wic) {
@@ -261,7 +261,7 @@ static void build_dev_info(UINT deviceId, struct wmme_dev_info *wdi,
 /* API: init factory */
 static pj_status_t factory_init(pjmedia_aud_dev_factory *f)
 {
-    struct wmme_factory *wf = (struct wmme_factory*)f;
+	struct wmme_factory *wf = (struct wmme_factory*)f;
     unsigned c;
     int i;
     int inputDeviceCount, outputDeviceCount, devCount=0;

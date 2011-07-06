@@ -77,7 +77,7 @@
  * this setting via its codec quality setting (i.e PJSUA_DEFAULT_CODEC_QUALITY).
  */
 #ifndef PJMEDIA_CODEC_SPEEX_DEFAULT_QUALITY
-#   define PJMEDIA_CODEC_SPEEX_DEFAULT_QUALITY	    3
+#   define PJMEDIA_CODEC_SPEEX_DEFAULT_QUALITY	    4 // vel default is 8
 #endif
 
 

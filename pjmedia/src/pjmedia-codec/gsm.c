@@ -278,7 +278,7 @@ static pj_status_t gsm_default_attr (pjmedia_codec_factory *factory,
     attr->info.avg_bps = 13200;
     attr->info.max_bps = 13200;
     attr->info.pcm_bits_per_sample = 16;
-    attr->info.frm_ptime = 20;
+    attr->info.frm_ptime = 40;
     attr->info.pt = PJMEDIA_RTP_PT_GSM;
 
     attr->setting.frm_per_pkt = 1;

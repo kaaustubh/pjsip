@@ -2522,6 +2522,7 @@ static pj_status_t create_aud_param(pjmedia_aud_param *param,
 	    param->field = pjsua_var.aud_param.field; \
 	}
     update_param( PJMEDIA_AUD_DEV_CAP_INPUT_VOLUME_SETTING, input_vol);
+	
     update_param( PJMEDIA_AUD_DEV_CAP_OUTPUT_VOLUME_SETTING, output_vol);
     update_param( PJMEDIA_AUD_DEV_CAP_INPUT_ROUTE, input_route);
     update_param( PJMEDIA_AUD_DEV_CAP_OUTPUT_ROUTE, output_route);

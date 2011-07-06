@@ -360,8 +360,8 @@ PJ_DEF(pj_status_t) pjmedia_endpt_create_sdp( pjmedia_endpt *endpt,
     pj_strdup (pool, &m->desc.transport, &STR_RTP_AVP);
 
     /* Init media line and attribute list. */
-    m->desc.fmt_count = 0;
-    m->attr_count = 0;
+    m->desc.fmt_count = 0; //ameya default was 0
+    m->attr_count = 0; //ameya default was 0
 
     /* Add "rtcp" attribute */
 #if defined(PJMEDIA_HAS_RTCP_IN_SDP) && PJMEDIA_HAS_RTCP_IN_SDP!=0
@@ -508,6 +508,8 @@ PJ_DEF(pj_status_t) pjmedia_endpt_create_sdp( pjmedia_endpt *endpt,
     attr->name = pj_str("fmtp");
     attr->value = pj_str(PJMEDIA_RTP_PT_TELEPHONE_EVENTS_STR " 0-15");
     m->attr[m->attr_count++] = attr;
+
+
 #endif
 
     /* Done */

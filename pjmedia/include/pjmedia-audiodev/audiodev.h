@@ -111,14 +111,14 @@ typedef enum pjmedia_aud_dev_cap
      * The value of this capability is an unsigned integer representing 
      * the input audio volume setting in percent.
      */
-    PJMEDIA_AUD_DEV_CAP_INPUT_VOLUME_SETTING = 8,
+	 PJMEDIA_AUD_DEV_CAP_INPUT_VOLUME_SETTING = 8,//Kaaustubh-8(This is original value)
 
     /** 
      * Support for setting/retrieving the audio output device volume level.
      * The value of this capability is an unsigned integer representing 
      * the output audio volume setting in percent.
      */
-    PJMEDIA_AUD_DEV_CAP_OUTPUT_VOLUME_SETTING = 16,
+    PJMEDIA_AUD_DEV_CAP_OUTPUT_VOLUME_SETTING = 16,//Kaaustubh-16(This is original value)
 
     /** 
      * Support for monitoring the current audio input signal volume. 

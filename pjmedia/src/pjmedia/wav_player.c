@@ -182,7 +182,7 @@ PJ_DEF(pj_status_t) pjmedia_wav_player_port_create( pj_pool_t *pool,
 
     /* Normalize ptime */
     if (ptime == 0)
-	ptime = 20;
+	ptime = 40;
 
     /* Normalize buff_size */
     if (buff_size < 1) buff_size = PJMEDIA_FILE_PORT_BUFSIZE;
